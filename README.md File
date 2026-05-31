@@ -1,28 +1,44 @@
-# Automated Enterprise Data Auditing & Deduplication Pipeline
+# Enterprise Humanitarian Data-Ops & Deduplication Pipeline
 
-An end-to-end data validation and data quality gatekeeper designed to ingest chaotic transactional data, enforce structural integrity, run fuzzy deduplication logic, and bulk-load clean datasets into an optimized relational database staging tier.
+A robust, enterprise-grade data engineering pipeline designed to ingest, deduplicate, validate, and display humanitarian cargo logistics and beneficiary allocations. This architecture features an automated Python-based ETL process connecting to a live Neon Serverless PostgreSQL cloud tier, paired with a high-performance Next.js analytics dashboard.
 
 ## 🏗️ Architecture Overview
 
-The system processes incoming datasets through a multi-stage production pipeline:
-1. **Ingestion & Validation Block:** Python parses independent CSV/Excel file streams and screens for fatal structural layout anomalies (e.g., missing critical transactional IDs).
-2. **String Standardization Block:** Scripts sanitize text structures, safely handle null allocations, and convert user name entries to uniform casing to remove human-entry variation.
-3. **Fuzzy Record Linkage Core:** Utilizes mathematical distance metrics (Jaro-Winkler/Levenshtein) to isolate near-duplicate identities and biometric double-registrations.
-4. **Relational Ingestion Tier:** Connects via a low-latency database driver to push verified unique logs into an indexed, multi-tenant PostgreSQL schema with strict constraints.
+The system is cleanly separated into two decoupled services to ensure optimal isolation of concerns, secure handling of secrets, and efficient resource scaling:
 
-## 🛠️ Tech Stack & Dependencies
+1.  **Backend Ingestion Engine (`/backend`):** A Python operations engine leveraging `pandas` for processing structural datasets and data-quality inspection, using `psycopg2` and bulk-batch transfers to populate relational staging schemas.
+2.  **Frontend Analytics Dashboard (`/frontend-dashboard`):** A Next.js application built with TypeScript and Tailwind CSS using native database connection pools to stream data updates with sub-second performance.
 
-- **Data Processing:** Python 3.13, Pandas, NumPy
-- **Algorithmic Matching:** Record Linkage (Fuzzy Matching Engine)
-- **Database Architecture:** PostgreSQL 18, Row-Level Constraints, B-Tree Indexes
-- **Database Driver:** Psycopg2-Binary (Bulk Transaction Execution)
+---
 
-## 📁 Project Directory Structure
+## 🛠️ Tech Stack
+
+* **Database:** Neon Serverless PostgreSQL (Cloud-Hosted)
+* **Data Processing:** Python 3.13+, Pandas, Psycopg2
+* **Frontend Dashboard:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Deployment & CI/CD:** GitHub, Vercel Production Environment
+
+---
+
+## 📂 Repository Structure
 
 ```text
 enterprise-deduplication-pipeline/
-├── audit_engine.py       # Core Python script for data cleaning & fuzzy matching
-├── db_loader.py          # PostgreSQL driver connection and bulk ingestion script
-├── schema.sql            # Relational schema defining data-ops constraints and indexes
-├── field_payout_logs.csv # Simulated raw, messy incoming transactional files
-└── final_unique_records.csv # Clean, staging output file ready for database injection
+├── backend/
+│   ├── audit_engine.py          # Data validation script
+│   ├── db_loader.py             # Main batch ingestion ETL pipeline
+│   ├── schema.sql               # Relational staging schema definitions
+│   ├── *.csv                    # Operational logs and source payloads
+│   └── .env                     # Local backend environment keys
+│
+└── frontend-dashboard/
+    ├── src/
+    │   ├── app/
+    │   │   ├── page.tsx         # Premium Dark-Mode tracking interface
+    │   │   └── api/
+    │   │       ├── metrics/     # Ledger volumetric aggregates API route
+    │   │       └── anomalies/   # Validation exception data stream route
+    │   └── ...
+    ├── .env                     # Frontend environment keys (Targeted by Vercel)
+    ├── package.json
+    └── next.config.ts
