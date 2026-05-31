@@ -1,0 +1,1001 @@
+partner_id,beneficiary_name,identity_id,region,item_distributed,quantity_allocated
+  WFP_PARTNER_A ,Recipient Profile 10104,SOM-ID-10104,Benadir,High Energy Biscuits (KG),130.0
+  WFP_PARTNER_A ,Recipient Profile 10238,SOM-ID-10238,Bari,Water Purification Kits,25.57
+WFP_PARTNER_A,Recipient Profile 10429,SOM-ID-10429,Bari,PlumpyNut (KG),360.85
+  WFP_PARTNER_B ,Recipient Profile 10825,SOM-ID-10825,Gedo,High Energy Biscuits (KG),406.62
+WFP_PARTNER_B,Recipient Profile 10781,SOM-ID-10781,Gedo,High Energy Biscuits (KG),146.16
+UN_AGENCY_LOCAL,Recipient Profile 10352,SOM-ID-10352,Benadir,Rice (MT),196.16
+UN_AGENCY_LOCAL,Recipient Profile 10387,SOM-ID-10387,Benadir,Water Purification Kits,272.75
+WFP_PARTNER_A,Recipient Profile 10882,SOM-ID-10882,Bari,High Energy Biscuits (KG),416.41
+  UN_AGENCY_LOCAL ,Recipient Profile 10233,SOM-ID-10233,Bari,PlumpyNut (KG),355.24
+UN_AGENCY_LOCAL,Recipient Profile 10464,SOM-ID-10464,Benadir,PlumpyNut (KG),434.58
+UN_AGENCY_LOCAL,Recipient Profile 10718,SOM-ID-10718,Bay,High Energy Biscuits (KG),184.08
+WFP_PARTNER_A,Recipient Profile 10473,SOM-ID-10473,Bari,PlumpyNut (KG),271.73
+NGO_COUNCIL,Recipient Profile 10794,SOM-ID-10794,Lower Shabelle,PlumpyNut (KG),345.46
+WFP_PARTNER_A,Recipient Profile 10067,SOM-ID-10067,Bay,Rice (MT),404.47
+WFP_PARTNER_B,Recipient Profile 10905,SOM-ID-10905,Bari,High Energy Biscuits (KG),114.19
+NGO_COUNCIL,UNKNOWN RECORD,,Bay,High Energy Biscuits (KG),78.42
+UN_AGENCY_LOCAL,Recipient Profile 10224,SOM-ID-10224,Bari,Water Purification Kits,449.93
+  WFP_PARTNER_B ,Recipient Profile 10112,SOM-ID-10112,Bari,Water Purification Kits,54.55
+WFP_PARTNER_B,Recipient Profile 10610,SOM-ID-10610,Bay,Water Purification Kits,302.24
+NGO_COUNCIL,Recipient Profile 10011,SOM-ID-10011,Bari,High Energy Biscuits (KG),485.83
+WFP_PARTNER_A,Recipient Profile 10300,SOM-ID-10300,Bari,High Energy Biscuits (KG),386.61
+NGO_COUNCIL,Recipient Profile 10736,SOM-ID-10736,Bay,Water Purification Kits,11.59
+  UN_AGENCY_LOCAL ,Recipient Profile 10640,SOM-ID-10640,Bari,PlumpyNut (KG),258.76
+UN_AGENCY_LOCAL,Recipient Profile 10552,SOM-ID-10552,Bari,PlumpyNut (KG),84.89
+  WFP_PARTNER_A ,Recipient Profile 10371,SOM-ID-10371,Bari,High Energy Biscuits (KG),249.42
+UN_AGENCY_LOCAL,Recipient Profile 10080,SOM-ID-10080,Bay,Rice (MT),128.03
+WFP_PARTNER_A,Recipient Profile 10128,SOM-ID-10128,Gedo,Rice (MT),489.21
+WFP_PARTNER_B,Recipient Profile 10433,SOM-ID-10433,Gedo,PlumpyNut (KG),139.88
+WFP_PARTNER_B,Recipient Profile 10687,SOM-ID-10687,Bari,PlumpyNut (KG),359.34
+UN_AGENCY_LOCAL,Recipient Profile 10346,SOM-ID-10346,Gedo,Water Purification Kits,69.29
+  WFP_PARTNER_A ,Recipient Profile 10724,SOM-ID-10724,Bari,PlumpyNut (KG),298.34
+WFP_PARTNER_A,Recipient Profile 10072,SOM-ID-10072,Bay,Rice (MT),453.66
+  WFP_PARTNER_B ,Recipient Profile 10903,SOM-ID-10903,Lower Shabelle,Water Purification Kits,114.98
+  NGO_COUNCIL ,Recipient Profile 10099,SOM-ID-10099,Bay,Water Purification Kits,405.67
+NGO_COUNCIL,Recipient Profile 10055,SOM-ID-10055,Lower Shabelle,Water Purification Kits,211.44
+WFP_PARTNER_A,Recipient Profile 10111,SOM-ID-10111,Benadir,Water Purification Kits,366.82
+  WFP_PARTNER_B ,Recipient Profile 10187,SOM-ID-10187,Bay,PlumpyNut (KG),272.78
+  UN_AGENCY_LOCAL ,Recipient Profile 10827,SOM-ID-10827,Gedo,PlumpyNut (KG),438.5
+WFP_PARTNER_A,Recipient Profile 10869,SOM-ID-10869,Benadir,Rice (MT),484.81
+WFP_PARTNER_B,Recipient Profile 10410,SOM-ID-10410,Bay,Water Purification Kits,247.96
+WFP_PARTNER_A,Recipient Profile 10948,SOM-ID-10948,Bay,Water Purification Kits,11.06
+NGO_COUNCIL,Recipient Profile 10802,SOM-ID-10802,Lower Shabelle,Water Purification Kits,351.33
+NGO_COUNCIL,Recipient Profile 10593,SOM-ID-10593,Bay,PlumpyNut (KG),155.39
+WFP_PARTNER_A,Recipient Profile 10941,SOM-ID-10941,Lower Shabelle,Rice (MT),34.57
+  WFP_PARTNER_B ,Recipient Profile 10069,SOM-ID-10069,Benadir,Rice (MT),427.16
+WFP_PARTNER_B,Recipient Profile 10592,SOM-ID-10592,Gedo,Rice (MT),471.38
+WFP_PARTNER_A,Recipient Profile 10535,SOM-ID-10535,Bari,Rice (MT),215.42
+UN_AGENCY_LOCAL,Recipient Profile 10271,SOM-ID-10271,Lower Shabelle,PlumpyNut (KG),338.17
+NGO_COUNCIL,Recipient Profile 10074,SOM-ID-10074,Bay,High Energy Biscuits (KG),234.04
+WFP_PARTNER_A,Recipient Profile 10271,SOM-ID-10271,Gedo,Rice (MT),45.9
+WFP_PARTNER_B,HASINA MOHAMED AHMED,SOM-ID-10555,Lower Shabelle,Rice (MT),440.84
+NGO_COUNCIL,  hasina mohamed ahmed ,SOM-ID-10555,Bari,High Energy Biscuits (KG),309.72
+  WFP_PARTNER_A ,Recipient Profile 10899,SOM-ID-10899,Bari,High Energy Biscuits (KG),466.56
+WFP_PARTNER_B,Recipient Profile 10159,SOM-ID-10159,Lower Shabelle,Rice (MT),445.96
+UN_AGENCY_LOCAL,Recipient Profile 10649,SOM-ID-10649,Lower Shabelle,PlumpyNut (KG),361.63
+UN_AGENCY_LOCAL,Recipient Profile 10052,SOM-ID-10052,Bari,Water Purification Kits,133.05
+WFP_PARTNER_A,Recipient Profile 10133,SOM-ID-10133,Gedo,High Energy Biscuits (KG),31.6
+UN_AGENCY_LOCAL,Recipient Profile 10009,SOM-ID-10009,Bay,Water Purification Kits,280.32
+WFP_PARTNER_A,Recipient Profile 10596,SOM-ID-10596,Benadir,PlumpyNut (KG),277.34
+WFP_PARTNER_B,Recipient Profile 10815,SOM-ID-10815,Gedo,PlumpyNut (KG),30.5
+WFP_PARTNER_A,Recipient Profile 10362,SOM-ID-10362,Lower Shabelle,PlumpyNut (KG),344.21
+NGO_COUNCIL,Recipient Profile 10166,SOM-ID-10166,Bari,PlumpyNut (KG),463.62
+WFP_PARTNER_B,Recipient Profile 10801,SOM-ID-10801,Gedo,Rice (MT),97.89
+NGO_COUNCIL,Recipient Profile 10391,SOM-ID-10391,Bay,High Energy Biscuits (KG),88.01
+WFP_PARTNER_A,Recipient Profile 10358,SOM-ID-10358,Gedo,PlumpyNut (KG),107.79
+  UN_AGENCY_LOCAL ,Recipient Profile 10336,SOM-ID-10336,Bay,PlumpyNut (KG),21.6
+UN_AGENCY_LOCAL,Recipient Profile 10695,SOM-ID-10695,Benadir,High Energy Biscuits (KG),182.06
+UN_AGENCY_LOCAL,Recipient Profile 10594,SOM-ID-10594,Benadir,Rice (MT),439.75
+UN_AGENCY_LOCAL,Recipient Profile 10805,SOM-ID-10805,Benadir,Rice (MT),302.32
+UN_AGENCY_LOCAL,Recipient Profile 10260,SOM-ID-10260,Gedo,Rice (MT),198.75
+WFP_PARTNER_A,Recipient Profile 10703,SOM-ID-10703,Gedo,Rice (MT),264.76
+WFP_PARTNER_B,Recipient Profile 10338,SOM-ID-10338,Lower Shabelle,Water Purification Kits,44.29
+UN_AGENCY_LOCAL,Recipient Profile 10334,SOM-ID-10334,Benadir,High Energy Biscuits (KG),258.49
+NGO_COUNCIL,Recipient Profile 10388,SOM-ID-10388,Lower Shabelle,PlumpyNut (KG),104.0
+WFP_PARTNER_B,Recipient Profile 10311,SOM-ID-10311,Bari,High Energy Biscuits (KG),208.98
+UN_AGENCY_LOCAL,Recipient Profile 10329,SOM-ID-10329,Bay,Water Purification Kits,395.02
+NGO_COUNCIL,Recipient Profile 10812,SOM-ID-10812,Gedo,Water Purification Kits,341.06
+WFP_PARTNER_B,Recipient Profile 10343,SOM-ID-10343,Benadir,High Energy Biscuits (KG),262.57
+  WFP_PARTNER_A ,Recipient Profile 10025,SOM-ID-10025,Bay,High Energy Biscuits (KG),120.07
+WFP_PARTNER_A,Recipient Profile 10466,SOM-ID-10466,Bay,Water Purification Kits,309.52
+NGO_COUNCIL,Recipient Profile 10409,SOM-ID-10409,Bari,PlumpyNut (KG),361.99
+WFP_PARTNER_B,Recipient Profile 10906,SOM-ID-10906,Bay,Rice (MT),447.4
+WFP_PARTNER_A,Recipient Profile 10530,SOM-ID-10530,Gedo,PlumpyNut (KG),96.18
+  NGO_COUNCIL ,Recipient Profile 10136,SOM-ID-10136,Benadir,PlumpyNut (KG),459.56
+NGO_COUNCIL,Recipient Profile 10627,SOM-ID-10627,Bari,High Energy Biscuits (KG),475.52
+NGO_COUNCIL,Recipient Profile 10486,SOM-ID-10486,Bari,Water Purification Kits,449.63
+NGO_COUNCIL,Recipient Profile 10796,SOM-ID-10796,Lower Shabelle,PlumpyNut (KG),421.53
+NGO_COUNCIL,Recipient Profile 10240,SOM-ID-10240,Bay,High Energy Biscuits (KG),225.54
+  UN_AGENCY_LOCAL ,Recipient Profile 10154,SOM-ID-10154,Lower Shabelle,High Energy Biscuits (KG),447.58
+  WFP_PARTNER_B ,Recipient Profile 10417,SOM-ID-10417,Gedo,PlumpyNut (KG),356.15
+UN_AGENCY_LOCAL,Recipient Profile 10430,SOM-ID-10430,Bari,Water Purification Kits,213.73
+NGO_COUNCIL,Recipient Profile 10389,SOM-ID-10389,Bari,Rice (MT),429.8
+NGO_COUNCIL,Recipient Profile 10913,SOM-ID-10913,Benadir,High Energy Biscuits (KG),156.32
+NGO_COUNCIL,Recipient Profile 10497,SOM-ID-10497,Bari,PlumpyNut (KG),249.23
+WFP_PARTNER_A,Recipient Profile 10741,SOM-ID-10741,Gedo,High Energy Biscuits (KG),337.75
+WFP_PARTNER_B,Recipient Profile 10928,SOM-ID-10928,Gedo,PlumpyNut (KG),490.55
+NGO_COUNCIL,Recipient Profile 10887,SOM-ID-10887,Bari,Rice (MT),51.13
+NGO_COUNCIL,Recipient Profile 10465,SOM-ID-10465,Bay,Rice (MT),137.48
+UN_AGENCY_LOCAL,Recipient Profile 10431,SOM-ID-10431,Lower Shabelle,Water Purification Kits,146.35
+UN_AGENCY_LOCAL,Recipient Profile 10358,SOM-ID-10358,Benadir,Water Purification Kits,19.5
+WFP_PARTNER_B,Recipient Profile 10204,SOM-ID-10204,Benadir,Rice (MT),379.57
+WFP_PARTNER_A,Recipient Profile 10117,SOM-ID-10117,Bari,PlumpyNut (KG),126.89
+  WFP_PARTNER_B ,Recipient Profile 10621,SOM-ID-10621,Gedo,High Energy Biscuits (KG),385.78
+  WFP_PARTNER_A ,Recipient Profile 10319,SOM-ID-10319,Bay,High Energy Biscuits (KG),62.97
+NGO_COUNCIL,Recipient Profile 10642,SOM-ID-10642,Gedo,PlumpyNut (KG),47.24
+WFP_PARTNER_B,Recipient Profile 10123,SOM-ID-10123,Benadir,High Energy Biscuits (KG),426.64
+  WFP_PARTNER_A ,Recipient Profile 10663,SOM-ID-10663,Lower Shabelle,Water Purification Kits,334.15
+  UN_AGENCY_LOCAL ,Recipient Profile 10370,SOM-ID-10370,Benadir,Water Purification Kits,412.94
+NGO_COUNCIL,Recipient Profile 10666,SOM-ID-10666,Bay,Water Purification Kits,96.31
+UN_AGENCY_LOCAL,Recipient Profile 10606,SOM-ID-10606,Bari,Water Purification Kits,237.79
+  UN_AGENCY_LOCAL ,Recipient Profile 10902,SOM-ID-10902,Lower Shabelle,PlumpyNut (KG),417.06
+NGO_COUNCIL,Recipient Profile 10344,SOM-ID-10344,Bay,Water Purification Kits,289.23
+WFP_PARTNER_A,Recipient Profile 10816,SOM-ID-10816,Gedo,High Energy Biscuits (KG),99.1
+UN_AGENCY_LOCAL,Recipient Profile 10282,SOM-ID-10282,Lower Shabelle,High Energy Biscuits (KG),441.36
+WFP_PARTNER_A,Recipient Profile 10500,SOM-ID-10500,Bari,PlumpyNut (KG),51.95
+  WFP_PARTNER_B ,Recipient Profile 10301,SOM-ID-10301,Gedo,Water Purification Kits,229.61
+WFP_PARTNER_B,Recipient Profile 10484,SOM-ID-10484,Gedo,PlumpyNut (KG),160.04
+UN_AGENCY_LOCAL,Recipient Profile 10313,SOM-ID-10313,Gedo,High Energy Biscuits (KG),182.39
+UN_AGENCY_LOCAL,Recipient Profile 10760,SOM-ID-10760,Bay,Rice (MT),363.43
+WFP_PARTNER_B,Recipient Profile 10603,SOM-ID-10603,Bay,PlumpyNut (KG),371.92
+UN_AGENCY_LOCAL,UNKNOWN RECORD,,Benadir,PlumpyNut (KG),155.16
+UN_AGENCY_LOCAL,Recipient Profile 10566,SOM-ID-10566,Benadir,PlumpyNut (KG),144.41
+  UN_AGENCY_LOCAL ,Recipient Profile 10291,SOM-ID-10291,Bay,Water Purification Kits,60.27
+NGO_COUNCIL,Recipient Profile 10258,SOM-ID-10258,Gedo,Water Purification Kits,176.95
+  NGO_COUNCIL ,Recipient Profile 10644,SOM-ID-10644,Benadir,Rice (MT),206.35
+WFP_PARTNER_A,Recipient Profile 10087,SOM-ID-10087,Bay,PlumpyNut (KG),407.46
+WFP_PARTNER_B,Recipient Profile 10231,SOM-ID-10231,Benadir,Water Purification Kits,307.1
+NGO_COUNCIL,Recipient Profile 10439,SOM-ID-10439,Gedo,Water Purification Kits,155.7
+UN_AGENCY_LOCAL,Recipient Profile 10781,SOM-ID-10781,Bari,Rice (MT),308.72
+  WFP_PARTNER_B ,Recipient Profile 10177,SOM-ID-10177,Bay,High Energy Biscuits (KG),333.61
+WFP_PARTNER_A,Recipient Profile 10481,SOM-ID-10481,Bay,Rice (MT),210.17
+UN_AGENCY_LOCAL,Recipient Profile 10880,SOM-ID-10880,Benadir,PlumpyNut (KG),151.17
+NGO_COUNCIL,Recipient Profile 10640,SOM-ID-10640,Benadir,PlumpyNut (KG),462.72
+WFP_PARTNER_B,Recipient Profile 10930,SOM-ID-10930,Gedo,Rice (MT),276.84
+UN_AGENCY_LOCAL,Recipient Profile 10609,SOM-ID-10609,Bay,Rice (MT),39.22
+UN_AGENCY_LOCAL,Recipient Profile 10412,SOM-ID-10412,Gedo,Rice (MT),239.66
+UN_AGENCY_LOCAL,Recipient Profile 10910,SOM-ID-10910,Bari,Water Purification Kits,224.5
+NGO_COUNCIL,Recipient Profile 10690,SOM-ID-10690,Lower Shabelle,High Energy Biscuits (KG),22.67
+  WFP_PARTNER_A ,Recipient Profile 10531,SOM-ID-10531,Lower Shabelle,Rice (MT),383.92
+NGO_COUNCIL,Recipient Profile 10833,SOM-ID-10833,Lower Shabelle,PlumpyNut (KG),498.5
+NGO_COUNCIL,Recipient Profile 10686,SOM-ID-10686,Benadir,Water Purification Kits,180.5
+WFP_PARTNER_A,Recipient Profile 10678,SOM-ID-10678,Bay,High Energy Biscuits (KG),211.71
+NGO_COUNCIL,Recipient Profile 10331,SOM-ID-10331,Bari,Rice (MT),232.86
+WFP_PARTNER_A,Recipient Profile 10423,SOM-ID-10423,Gedo,Rice (MT),332.25
+WFP_PARTNER_A,Recipient Profile 10452,SOM-ID-10452,Bay,High Energy Biscuits (KG),315.09
+WFP_PARTNER_A,Recipient Profile 10448,SOM-ID-10448,Bay,High Energy Biscuits (KG),279.12
+NGO_COUNCIL,Recipient Profile 10245,SOM-ID-10245,Benadir,Rice (MT),486.84
+  WFP_PARTNER_B ,Recipient Profile 10861,SOM-ID-10861,Lower Shabelle,Rice (MT),280.6
+  WFP_PARTNER_A ,Recipient Profile 10733,SOM-ID-10733,Gedo,Rice (MT),327.38
+UN_AGENCY_LOCAL,Recipient Profile 10483,SOM-ID-10483,Bari,High Energy Biscuits (KG),213.59
+WFP_PARTNER_B,Recipient Profile 10520,SOM-ID-10520,Gedo,PlumpyNut (KG),197.96
+WFP_PARTNER_B,Recipient Profile 10348,SOM-ID-10348,Benadir,High Energy Biscuits (KG),388.61
+UN_AGENCY_LOCAL,Recipient Profile 10593,SOM-ID-10593,Benadir,High Energy Biscuits (KG),365.76
+NGO_COUNCIL,Recipient Profile 10565,SOM-ID-10565,Bay,Water Purification Kits,273.9
+NGO_COUNCIL,Recipient Profile 10244,SOM-ID-10244,Gedo,High Energy Biscuits (KG),436.1
+NGO_COUNCIL,Recipient Profile 10722,SOM-ID-10722,Bay,Water Purification Kits,31.39
+  NGO_COUNCIL ,Recipient Profile 10514,SOM-ID-10514,Gedo,PlumpyNut (KG),252.71
+UN_AGENCY_LOCAL,Recipient Profile 10015,SOM-ID-10015,Benadir,Water Purification Kits,58.86
+WFP_PARTNER_B,Recipient Profile 10271,SOM-ID-10271,Gedo,PlumpyNut (KG),46.67
+UN_AGENCY_LOCAL,Recipient Profile 10872,SOM-ID-10872,Bari,Water Purification Kits,328.42
+  NGO_COUNCIL ,Recipient Profile 10070,SOM-ID-10070,Lower Shabelle,Water Purification Kits,437.47
+WFP_PARTNER_B,Recipient Profile 10100,SOM-ID-10100,Lower Shabelle,PlumpyNut (KG),375.92
+WFP_PARTNER_A,Recipient Profile 10047,SOM-ID-10047,Gedo,PlumpyNut (KG),350.06
+UN_AGENCY_LOCAL,Recipient Profile 10250,SOM-ID-10250,Benadir,High Energy Biscuits (KG),185.65
+  NGO_COUNCIL ,Recipient Profile 10891,SOM-ID-10891,Bari,PlumpyNut (KG),93.29
+NGO_COUNCIL,Recipient Profile 10237,SOM-ID-10237,Bari,PlumpyNut (KG),253.86
+  NGO_COUNCIL ,Recipient Profile 10823,SOM-ID-10823,Lower Shabelle,Water Purification Kits,135.11
+NGO_COUNCIL,Recipient Profile 10601,SOM-ID-10601,Lower Shabelle,PlumpyNut (KG),46.19
+UN_AGENCY_LOCAL,Recipient Profile 10393,SOM-ID-10393,Gedo,High Energy Biscuits (KG),233.85
+NGO_COUNCIL,Recipient Profile 10302,SOM-ID-10302,Benadir,PlumpyNut (KG),196.87
+UN_AGENCY_LOCAL,Recipient Profile 10702,SOM-ID-10702,Benadir,Water Purification Kits,144.5
+WFP_PARTNER_A,Recipient Profile 10794,SOM-ID-10794,Bari,Water Purification Kits,418.09
+  WFP_PARTNER_B ,Recipient Profile 10256,SOM-ID-10256,Bari,High Energy Biscuits (KG),117.31
+WFP_PARTNER_B,Recipient Profile 10593,SOM-ID-10593,Benadir,Rice (MT),161.38
+UN_AGENCY_LOCAL,Recipient Profile 10425,SOM-ID-10425,Bay,Rice (MT),455.72
+WFP_PARTNER_B,Recipient Profile 10374,SOM-ID-10374,Bay,PlumpyNut (KG),395.39
+UN_AGENCY_LOCAL,Recipient Profile 10825,SOM-ID-10825,Bay,High Energy Biscuits (KG),457.88
+  UN_AGENCY_LOCAL ,Recipient Profile 10772,SOM-ID-10772,Lower Shabelle,Rice (MT),239.48
+WFP_PARTNER_B,Recipient Profile 10270,SOM-ID-10270,Gedo,High Energy Biscuits (KG),54.25
+WFP_PARTNER_A,Recipient Profile 10598,SOM-ID-10598,Gedo,High Energy Biscuits (KG),339.69
+NGO_COUNCIL,Recipient Profile 10634,SOM-ID-10634,Lower Shabelle,Rice (MT),340.67
+UN_AGENCY_LOCAL,Recipient Profile 10475,SOM-ID-10475,Bari,PlumpyNut (KG),327.35
+UN_AGENCY_LOCAL,Recipient Profile 10311,SOM-ID-10311,Gedo,Rice (MT),78.49
+NGO_COUNCIL,Recipient Profile 10397,SOM-ID-10397,Benadir,Rice (MT),125.05
+NGO_COUNCIL,Recipient Profile 10906,SOM-ID-10906,Lower Shabelle,Water Purification Kits,297.8
+NGO_COUNCIL,Recipient Profile 10286,SOM-ID-10286,Benadir,Water Purification Kits,311.67
+WFP_PARTNER_A,Recipient Profile 10875,SOM-ID-10875,Lower Shabelle,PlumpyNut (KG),227.26
+UN_AGENCY_LOCAL,Recipient Profile 10367,SOM-ID-10367,Benadir,High Energy Biscuits (KG),276.79
+  WFP_PARTNER_A ,Recipient Profile 10868,SOM-ID-10868,Gedo,High Energy Biscuits (KG),103.01
+NGO_COUNCIL,Recipient Profile 10021,SOM-ID-10021,Benadir,PlumpyNut (KG),324.44
+WFP_PARTNER_A,Recipient Profile 10210,SOM-ID-10210,Lower Shabelle,PlumpyNut (KG),494.52
+WFP_PARTNER_A,Recipient Profile 10238,SOM-ID-10238,Bari,PlumpyNut (KG),297.33
+UN_AGENCY_LOCAL,Recipient Profile 10133,SOM-ID-10133,Bay,Rice (MT),145.86
+  UN_AGENCY_LOCAL ,Recipient Profile 10015,SOM-ID-10015,Bay,Rice (MT),333.92
+UN_AGENCY_LOCAL,Recipient Profile 10129,SOM-ID-10129,Bay,High Energy Biscuits (KG),17.73
+NGO_COUNCIL,Recipient Profile 10796,SOM-ID-10796,Bari,Rice (MT),375.38
+UN_AGENCY_LOCAL,Recipient Profile 10629,SOM-ID-10629,Bari,Rice (MT),231.48
+WFP_PARTNER_A,Recipient Profile 10062,SOM-ID-10062,Bari,High Energy Biscuits (KG),234.44
+NGO_COUNCIL,Recipient Profile 10931,SOM-ID-10931,Gedo,Water Purification Kits,346.19
+  NGO_COUNCIL ,Recipient Profile 10129,SOM-ID-10129,Benadir,Rice (MT),167.83
+UN_AGENCY_LOCAL,Recipient Profile 10301,SOM-ID-10301,Bari,High Energy Biscuits (KG),196.64
+NGO_COUNCIL,Recipient Profile 10873,SOM-ID-10873,Bari,Water Purification Kits,58.6
+WFP_PARTNER_B,Recipient Profile 10847,SOM-ID-10847,Gedo,Water Purification Kits,445.16
+NGO_COUNCIL,Recipient Profile 10320,SOM-ID-10320,Gedo,Water Purification Kits,367.51
+UN_AGENCY_LOCAL,Recipient Profile 10093,SOM-ID-10093,Lower Shabelle,PlumpyNut (KG),346.54
+WFP_PARTNER_A,Recipient Profile 10831,SOM-ID-10831,Benadir,Water Purification Kits,57.32
+WFP_PARTNER_B,Recipient Profile 10337,SOM-ID-10337,Bari,Rice (MT),297.37
+WFP_PARTNER_A,Recipient Profile 10433,SOM-ID-10433,Gedo,High Energy Biscuits (KG),438.07
+WFP_PARTNER_A,Recipient Profile 10217,SOM-ID-10217,Lower Shabelle,High Energy Biscuits (KG),182.31
+WFP_PARTNER_B,Recipient Profile 10569,SOM-ID-10569,Gedo,PlumpyNut (KG),425.16
+UN_AGENCY_LOCAL,Recipient Profile 10865,SOM-ID-10865,Benadir,High Energy Biscuits (KG),291.31
+WFP_PARTNER_A,Recipient Profile 10780,SOM-ID-10780,Bari,High Energy Biscuits (KG),24.19
+UN_AGENCY_LOCAL,Recipient Profile 10579,SOM-ID-10579,Lower Shabelle,High Energy Biscuits (KG),12.99
+NGO_COUNCIL,Recipient Profile 10093,SOM-ID-10093,Benadir,PlumpyNut (KG),373.07
+  WFP_PARTNER_B ,Recipient Profile 10319,SOM-ID-10319,Gedo,Water Purification Kits,232.29
+  UN_AGENCY_LOCAL ,Recipient Profile 10772,SOM-ID-10772,Bari,Rice (MT),442.84
+WFP_PARTNER_A,Recipient Profile 10621,SOM-ID-10621,Benadir,High Energy Biscuits (KG),227.13
+NGO_COUNCIL,Recipient Profile 10353,SOM-ID-10353,Gedo,High Energy Biscuits (KG),115.63
+NGO_COUNCIL,Recipient Profile 10539,SOM-ID-10539,Benadir,High Energy Biscuits (KG),342.33
+UN_AGENCY_LOCAL,Recipient Profile 10007,SOM-ID-10007,Benadir,PlumpyNut (KG),203.68
+WFP_PARTNER_B,Recipient Profile 10296,SOM-ID-10296,Lower Shabelle,PlumpyNut (KG),386.0
+UN_AGENCY_LOCAL,Recipient Profile 10132,SOM-ID-10132,Benadir,Rice (MT),253.72
+NGO_COUNCIL,Recipient Profile 10825,SOM-ID-10825,Bari,PlumpyNut (KG),255.13
+  UN_AGENCY_LOCAL ,Recipient Profile 10019,SOM-ID-10019,Benadir,Water Purification Kits,432.26
+NGO_COUNCIL,Recipient Profile 10726,SOM-ID-10726,Benadir,High Energy Biscuits (KG),292.12
+NGO_COUNCIL,Recipient Profile 10175,SOM-ID-10175,Lower Shabelle,Rice (MT),208.47
+  NGO_COUNCIL ,Recipient Profile 10446,SOM-ID-10446,Lower Shabelle,Rice (MT),223.99
+NGO_COUNCIL,Recipient Profile 10347,SOM-ID-10347,Bari,Rice (MT),203.93
+WFP_PARTNER_B,Recipient Profile 10543,SOM-ID-10543,Lower Shabelle,PlumpyNut (KG),47.43
+WFP_PARTNER_B,Recipient Profile 10834,SOM-ID-10834,Lower Shabelle,High Energy Biscuits (KG),366.42
+  WFP_PARTNER_B ,Recipient Profile 10616,SOM-ID-10616,Bay,Rice (MT),81.76
+WFP_PARTNER_B,Recipient Profile 10475,SOM-ID-10475,Benadir,PlumpyNut (KG),476.13
+NGO_COUNCIL,Recipient Profile 10154,SOM-ID-10154,Bari,High Energy Biscuits (KG),433.48
+NGO_COUNCIL,Recipient Profile 10281,SOM-ID-10281,Benadir,Water Purification Kits,226.68
+WFP_PARTNER_A,Recipient Profile 10058,SOM-ID-10058,Lower Shabelle,Rice (MT),162.1
+UN_AGENCY_LOCAL,Recipient Profile 10092,SOM-ID-10092,Lower Shabelle,Rice (MT),325.89
+NGO_COUNCIL,Recipient Profile 10667,SOM-ID-10667,Gedo,Rice (MT),230.37
+WFP_PARTNER_B,Recipient Profile 10461,SOM-ID-10461,Lower Shabelle,Water Purification Kits,255.67
+  WFP_PARTNER_A ,Recipient Profile 10253,SOM-ID-10253,Lower Shabelle,Rice (MT),257.23
+NGO_COUNCIL,Recipient Profile 10396,SOM-ID-10396,Gedo,PlumpyNut (KG),188.31
+NGO_COUNCIL,Recipient Profile 10067,SOM-ID-10067,Lower Shabelle,Rice (MT),396.72
+UN_AGENCY_LOCAL,Recipient Profile 10672,SOM-ID-10672,Benadir,Water Purification Kits,149.23
+  WFP_PARTNER_B ,Recipient Profile 10358,SOM-ID-10358,Lower Shabelle,Rice (MT),295.54
+UN_AGENCY_LOCAL,Recipient Profile 10317,SOM-ID-10317,Gedo,PlumpyNut (KG),301.57
+NGO_COUNCIL,Recipient Profile 10756,SOM-ID-10756,Lower Shabelle,PlumpyNut (KG),338.36
+WFP_PARTNER_A,Recipient Profile 10219,SOM-ID-10219,Gedo,High Energy Biscuits (KG),18.93
+  UN_AGENCY_LOCAL ,Recipient Profile 10079,SOM-ID-10079,Gedo,PlumpyNut (KG),121.01
+UN_AGENCY_LOCAL,Recipient Profile 10632,SOM-ID-10632,Benadir,Rice (MT),334.35
+  WFP_PARTNER_B ,Recipient Profile 10709,SOM-ID-10709,Bari,Water Purification Kits,85.58
+WFP_PARTNER_B,Recipient Profile 10243,SOM-ID-10243,Gedo,Rice (MT),211.32
+NGO_COUNCIL,HASINA MOHAMED AHMED,SOM-ID-10555,Bari,High Energy Biscuits (KG),378.67
+  WFP_PARTNER_B ,  hasina mohamed ahmed ,SOM-ID-10555,Lower Shabelle,Water Purification Kits,452.95
+NGO_COUNCIL,Recipient Profile 10428,SOM-ID-10428,Gedo,High Energy Biscuits (KG),391.28
+  WFP_PARTNER_B ,Recipient Profile 10492,SOM-ID-10492,Bay,PlumpyNut (KG),437.77
+UN_AGENCY_LOCAL,Recipient Profile 10127,SOM-ID-10127,Bari,Rice (MT),358.59
+UN_AGENCY_LOCAL,Recipient Profile 10150,SOM-ID-10150,Benadir,PlumpyNut (KG),143.67
+NGO_COUNCIL,Recipient Profile 10027,SOM-ID-10027,Benadir,PlumpyNut (KG),410.18
+NGO_COUNCIL,Recipient Profile 10083,SOM-ID-10083,Benadir,Water Purification Kits,255.98
+  UN_AGENCY_LOCAL ,Recipient Profile 10731,SOM-ID-10731,Bay,Rice (MT),166.16
+UN_AGENCY_LOCAL,Recipient Profile 10483,SOM-ID-10483,Bay,PlumpyNut (KG),28.77
+WFP_PARTNER_B,Recipient Profile 10019,SOM-ID-10019,Gedo,Water Purification Kits,311.52
+UN_AGENCY_LOCAL,Recipient Profile 10540,SOM-ID-10540,Bay,PlumpyNut (KG),278.91
+  NGO_COUNCIL ,Recipient Profile 10244,SOM-ID-10244,Benadir,High Energy Biscuits (KG),126.44
+NGO_COUNCIL,Recipient Profile 10511,SOM-ID-10511,Bari,Water Purification Kits,40.78
+WFP_PARTNER_A,Recipient Profile 10001,SOM-ID-10001,Bari,PlumpyNut (KG),362.09
+UN_AGENCY_LOCAL,Recipient Profile 10536,SOM-ID-10536,Bay,Water Purification Kits,101.78
+UN_AGENCY_LOCAL,Recipient Profile 10650,SOM-ID-10650,Benadir,Rice (MT),201.32
+NGO_COUNCIL,Recipient Profile 10069,SOM-ID-10069,Lower Shabelle,High Energy Biscuits (KG),376.19
+UN_AGENCY_LOCAL,Recipient Profile 10340,SOM-ID-10340,Bay,Rice (MT),388.04
+WFP_PARTNER_B,Recipient Profile 10179,SOM-ID-10179,Benadir,High Energy Biscuits (KG),277.55
+  NGO_COUNCIL ,Recipient Profile 10794,SOM-ID-10794,Gedo,PlumpyNut (KG),407.63
+NGO_COUNCIL,Recipient Profile 10907,SOM-ID-10907,Benadir,High Energy Biscuits (KG),108.78
+WFP_PARTNER_A,Recipient Profile 10556,SOM-ID-10556,Lower Shabelle,High Energy Biscuits (KG),262.54
+  NGO_COUNCIL ,Recipient Profile 10365,SOM-ID-10365,Lower Shabelle,Rice (MT),379.11
+WFP_PARTNER_A,Recipient Profile 10910,SOM-ID-10910,Lower Shabelle,High Energy Biscuits (KG),70.99
+  NGO_COUNCIL ,Recipient Profile 10708,SOM-ID-10708,Gedo,Water Purification Kits,176.13
+NGO_COUNCIL,Recipient Profile 10080,SOM-ID-10080,Lower Shabelle,High Energy Biscuits (KG),402.56
+NGO_COUNCIL,Recipient Profile 10081,SOM-ID-10081,Bari,PlumpyNut (KG),277.28
+UN_AGENCY_LOCAL,Recipient Profile 10170,SOM-ID-10170,Lower Shabelle,High Energy Biscuits (KG),228.5
+NGO_COUNCIL,Recipient Profile 10361,SOM-ID-10361,Lower Shabelle,Water Purification Kits,30.75
+NGO_COUNCIL,Recipient Profile 10372,SOM-ID-10372,Lower Shabelle,Rice (MT),46.77
+WFP_PARTNER_B,Recipient Profile 10448,SOM-ID-10448,Benadir,PlumpyNut (KG),425.85
+WFP_PARTNER_A,Recipient Profile 10370,SOM-ID-10370,Bay,Rice (MT),125.64
+NGO_COUNCIL,Recipient Profile 10379,SOM-ID-10379,Bari,Rice (MT),306.5
+UN_AGENCY_LOCAL,Recipient Profile 10407,SOM-ID-10407,Gedo,Rice (MT),291.22
+  UN_AGENCY_LOCAL ,Recipient Profile 10190,SOM-ID-10190,Lower Shabelle,PlumpyNut (KG),480.65
+  NGO_COUNCIL ,Recipient Profile 10793,SOM-ID-10793,Bari,Water Purification Kits,457.64
+UN_AGENCY_LOCAL,Recipient Profile 10938,SOM-ID-10938,Gedo,PlumpyNut (KG),498.22
+  NGO_COUNCIL ,Recipient Profile 10176,SOM-ID-10176,Bay,Rice (MT),76.51
+NGO_COUNCIL,Recipient Profile 10563,SOM-ID-10563,Benadir,High Energy Biscuits (KG),337.24
+UN_AGENCY_LOCAL,Recipient Profile 10653,SOM-ID-10653,Lower Shabelle,PlumpyNut (KG),358.79
+WFP_PARTNER_B,Recipient Profile 10142,SOM-ID-10142,Lower Shabelle,PlumpyNut (KG),69.47
+WFP_PARTNER_B,Recipient Profile 10478,SOM-ID-10478,Gedo,Rice (MT),186.84
+WFP_PARTNER_B,Recipient Profile 10734,SOM-ID-10734,Bari,Rice (MT),42.22
+NGO_COUNCIL,Recipient Profile 10075,SOM-ID-10075,Bari,Water Purification Kits,386.89
+WFP_PARTNER_B,Recipient Profile 10352,SOM-ID-10352,Lower Shabelle,Rice (MT),230.49
+  WFP_PARTNER_B ,Recipient Profile 10514,SOM-ID-10514,Bari,PlumpyNut (KG),386.21
+  WFP_PARTNER_A ,Recipient Profile 10726,SOM-ID-10726,Benadir,PlumpyNut (KG),159.02
+WFP_PARTNER_B,Recipient Profile 10650,SOM-ID-10650,Lower Shabelle,High Energy Biscuits (KG),424.51
+  UN_AGENCY_LOCAL ,Recipient Profile 10656,SOM-ID-10656,Bay,High Energy Biscuits (KG),311.07
+WFP_PARTNER_B,Recipient Profile 10923,SOM-ID-10923,Bari,PlumpyNut (KG),93.89
+  UN_AGENCY_LOCAL ,Recipient Profile 10046,SOM-ID-10046,Bari,Rice (MT),414.37
+  UN_AGENCY_LOCAL ,Recipient Profile 10910,SOM-ID-10910,Bay,Water Purification Kits,312.87
+UN_AGENCY_LOCAL,Recipient Profile 10415,SOM-ID-10415,Lower Shabelle,Water Purification Kits,129.99
+  UN_AGENCY_LOCAL ,Recipient Profile 10425,SOM-ID-10425,Gedo,Rice (MT),347.42
+  NGO_COUNCIL ,Recipient Profile 10882,SOM-ID-10882,Gedo,PlumpyNut (KG),176.69
+UN_AGENCY_LOCAL,Recipient Profile 10575,SOM-ID-10575,Lower Shabelle,Water Purification Kits,74.08
+WFP_PARTNER_A,Recipient Profile 10253,SOM-ID-10253,Lower Shabelle,PlumpyNut (KG),238.57
+WFP_PARTNER_B,Recipient Profile 10630,SOM-ID-10630,Benadir,Rice (MT),152.2
+NGO_COUNCIL,Recipient Profile 10738,SOM-ID-10738,Bay,PlumpyNut (KG),408.6
+UN_AGENCY_LOCAL,Recipient Profile 10510,SOM-ID-10510,Bay,PlumpyNut (KG),254.15
+UN_AGENCY_LOCAL,Recipient Profile 10468,SOM-ID-10468,Gedo,Rice (MT),54.12
+WFP_PARTNER_B,Recipient Profile 10611,SOM-ID-10611,Bay,High Energy Biscuits (KG),33.84
+NGO_COUNCIL,Recipient Profile 10903,SOM-ID-10903,Lower Shabelle,Rice (MT),425.11
+UN_AGENCY_LOCAL,Recipient Profile 10583,SOM-ID-10583,Lower Shabelle,Water Purification Kits,189.31
+WFP_PARTNER_B,Recipient Profile 10782,SOM-ID-10782,Lower Shabelle,High Energy Biscuits (KG),46.03
+  UN_AGENCY_LOCAL ,Recipient Profile 10382,SOM-ID-10382,Bari,Rice (MT),73.05
+  UN_AGENCY_LOCAL ,Recipient Profile 10521,SOM-ID-10521,Bari,High Energy Biscuits (KG),379.93
+  NGO_COUNCIL ,Recipient Profile 10341,SOM-ID-10341,Bari,Rice (MT),32.2
+NGO_COUNCIL,Recipient Profile 10143,SOM-ID-10143,Bari,Water Purification Kits,82.98
+UN_AGENCY_LOCAL,Recipient Profile 10757,SOM-ID-10757,Bari,High Energy Biscuits (KG),89.63
+UN_AGENCY_LOCAL,Recipient Profile 10501,SOM-ID-10501,Bari,High Energy Biscuits (KG),258.58
+UN_AGENCY_LOCAL,Recipient Profile 10426,SOM-ID-10426,Gedo,Rice (MT),190.5
+UN_AGENCY_LOCAL,Recipient Profile 10794,SOM-ID-10794,Benadir,Water Purification Kits,140.11
+WFP_PARTNER_B,Recipient Profile 10634,SOM-ID-10634,Benadir,Water Purification Kits,93.55
+NGO_COUNCIL,Recipient Profile 10112,SOM-ID-10112,Bay,PlumpyNut (KG),25.47
+  WFP_PARTNER_B ,Recipient Profile 10707,SOM-ID-10707,Benadir,Water Purification Kits,163.71
+WFP_PARTNER_B,Recipient Profile 10063,SOM-ID-10063,Gedo,Water Purification Kits,437.68
+WFP_PARTNER_B,Recipient Profile 10489,SOM-ID-10489,Bari,PlumpyNut (KG),284.83
+NGO_COUNCIL,Recipient Profile 10559,SOM-ID-10559,Lower Shabelle,PlumpyNut (KG),235.24
+UN_AGENCY_LOCAL,Recipient Profile 10571,SOM-ID-10571,Lower Shabelle,Water Purification Kits,104.21
+UN_AGENCY_LOCAL,Recipient Profile 10706,SOM-ID-10706,Bay,High Energy Biscuits (KG),387.88
+NGO_COUNCIL,Recipient Profile 10814,SOM-ID-10814,Lower Shabelle,Water Purification Kits,180.91
+UN_AGENCY_LOCAL,Recipient Profile 10917,SOM-ID-10917,Lower Shabelle,Rice (MT),291.0
+NGO_COUNCIL,Recipient Profile 10731,SOM-ID-10731,Lower Shabelle,PlumpyNut (KG),152.32
+WFP_PARTNER_A,Recipient Profile 10219,SOM-ID-10219,Lower Shabelle,Water Purification Kits,331.43
+WFP_PARTNER_B,Recipient Profile 10140,SOM-ID-10140,Bari,High Energy Biscuits (KG),467.18
+WFP_PARTNER_A,Recipient Profile 10543,SOM-ID-10543,Bari,PlumpyNut (KG),128.8
+WFP_PARTNER_B,Recipient Profile 10483,SOM-ID-10483,Bay,Rice (MT),59.1
+WFP_PARTNER_A,Recipient Profile 10161,SOM-ID-10161,Bay,Rice (MT),482.61
+NGO_COUNCIL,Recipient Profile 10294,SOM-ID-10294,Gedo,Water Purification Kits,328.76
+  UN_AGENCY_LOCAL ,Recipient Profile 10587,SOM-ID-10587,Lower Shabelle,Rice (MT),454.89
+  WFP_PARTNER_B ,Recipient Profile 10903,SOM-ID-10903,Bari,Rice (MT),457.48
+  WFP_PARTNER_B ,Recipient Profile 10766,SOM-ID-10766,Benadir,Water Purification Kits,396.1
+UN_AGENCY_LOCAL,Recipient Profile 10343,SOM-ID-10343,Benadir,Rice (MT),156.21
+  UN_AGENCY_LOCAL ,Recipient Profile 10516,SOM-ID-10516,Gedo,Water Purification Kits,445.74
+NGO_COUNCIL,Recipient Profile 10748,SOM-ID-10748,Lower Shabelle,PlumpyNut (KG),406.32
+NGO_COUNCIL,Recipient Profile 10302,SOM-ID-10302,Lower Shabelle,PlumpyNut (KG),16.9
+WFP_PARTNER_B,Recipient Profile 10088,SOM-ID-10088,Bay,Water Purification Kits,415.23
+NGO_COUNCIL,Recipient Profile 10254,SOM-ID-10254,Benadir,PlumpyNut (KG),491.03
+WFP_PARTNER_A,Recipient Profile 10337,SOM-ID-10337,Lower Shabelle,Water Purification Kits,125.41
+UN_AGENCY_LOCAL,Recipient Profile 10241,SOM-ID-10241,Bari,Rice (MT),138.16
+WFP_PARTNER_A,Recipient Profile 10514,SOM-ID-10514,Benadir,Water Purification Kits,160.34
+UN_AGENCY_LOCAL,Recipient Profile 10136,SOM-ID-10136,Benadir,High Energy Biscuits (KG),190.1
+NGO_COUNCIL,Recipient Profile 10425,SOM-ID-10425,Bay,Water Purification Kits,376.39
+NGO_COUNCIL,Recipient Profile 10610,SOM-ID-10610,Bari,PlumpyNut (KG),383.31
+WFP_PARTNER_A,Recipient Profile 10939,SOM-ID-10939,Bari,Water Purification Kits,268.8
+  WFP_PARTNER_A ,Recipient Profile 10335,SOM-ID-10335,Benadir,PlumpyNut (KG),290.62
+NGO_COUNCIL,Recipient Profile 10920,SOM-ID-10920,Benadir,PlumpyNut (KG),361.29
+NGO_COUNCIL,Recipient Profile 10577,SOM-ID-10577,Benadir,Water Purification Kits,74.65
+WFP_PARTNER_A,Recipient Profile 10022,SOM-ID-10022,Bari,Water Purification Kits,339.66
+NGO_COUNCIL,Recipient Profile 10046,SOM-ID-10046,Lower Shabelle,Rice (MT),375.44
+  NGO_COUNCIL ,Recipient Profile 10915,SOM-ID-10915,Lower Shabelle,Rice (MT),275.17
+  WFP_PARTNER_A ,Recipient Profile 10138,SOM-ID-10138,Gedo,Rice (MT),150.67
+NGO_COUNCIL,Recipient Profile 10386,SOM-ID-10386,Lower Shabelle,Water Purification Kits,229.78
+NGO_COUNCIL,Recipient Profile 10182,SOM-ID-10182,Benadir,PlumpyNut (KG),330.23
+NGO_COUNCIL,Recipient Profile 10003,SOM-ID-10003,Bari,PlumpyNut (KG),366.65
+WFP_PARTNER_A,Recipient Profile 10544,SOM-ID-10544,Lower Shabelle,Water Purification Kits,340.01
+  NGO_COUNCIL ,Recipient Profile 10193,SOM-ID-10193,Bay,PlumpyNut (KG),235.71
+WFP_PARTNER_A,Recipient Profile 10910,SOM-ID-10910,Benadir,Water Purification Kits,311.31
+WFP_PARTNER_A,Recipient Profile 10457,SOM-ID-10457,Bay,PlumpyNut (KG),42.97
+WFP_PARTNER_A,Recipient Profile 10222,SOM-ID-10222,Bay,Rice (MT),207.11
+WFP_PARTNER_A,Recipient Profile 10589,SOM-ID-10589,Bay,High Energy Biscuits (KG),124.74
+UN_AGENCY_LOCAL,Recipient Profile 10676,SOM-ID-10676,Bari,High Energy Biscuits (KG),126.08
+WFP_PARTNER_B,Recipient Profile 10605,SOM-ID-10605,Gedo,High Energy Biscuits (KG),144.83
+WFP_PARTNER_B,Recipient Profile 10658,SOM-ID-10658,Gedo,Water Purification Kits,32.97
+NGO_COUNCIL,Recipient Profile 10307,SOM-ID-10307,Bari,High Energy Biscuits (KG),351.19
+NGO_COUNCIL,Recipient Profile 10878,SOM-ID-10878,Bay,Water Purification Kits,128.07
+WFP_PARTNER_B,Recipient Profile 10570,SOM-ID-10570,Gedo,Rice (MT),285.57
+WFP_PARTNER_B,Recipient Profile 10080,SOM-ID-10080,Gedo,PlumpyNut (KG),134.95
+NGO_COUNCIL,Recipient Profile 10052,SOM-ID-10052,Lower Shabelle,Rice (MT),272.46
+  UN_AGENCY_LOCAL ,Recipient Profile 10779,SOM-ID-10779,Gedo,Rice (MT),438.07
+WFP_PARTNER_B,Recipient Profile 10930,SOM-ID-10930,Gedo,PlumpyNut (KG),436.04
+  WFP_PARTNER_A ,Recipient Profile 10772,SOM-ID-10772,Bay,PlumpyNut (KG),481.42
+NGO_COUNCIL,Recipient Profile 10329,SOM-ID-10329,Bay,PlumpyNut (KG),204.35
+UN_AGENCY_LOCAL,Recipient Profile 10267,SOM-ID-10267,Gedo,Water Purification Kits,271.49
+UN_AGENCY_LOCAL,Recipient Profile 10739,SOM-ID-10739,Bari,Water Purification Kits,238.34
+NGO_COUNCIL,Recipient Profile 10576,SOM-ID-10576,Lower Shabelle,PlumpyNut (KG),191.65
+WFP_PARTNER_B,Recipient Profile 10593,SOM-ID-10593,Bay,Rice (MT),137.78
+NGO_COUNCIL,Recipient Profile 10583,SOM-ID-10583,Lower Shabelle,PlumpyNut (KG),106.13
+WFP_PARTNER_B,Recipient Profile 10740,SOM-ID-10740,Gedo,High Energy Biscuits (KG),136.09
+NGO_COUNCIL,Recipient Profile 10143,SOM-ID-10143,Gedo,PlumpyNut (KG),369.06
+NGO_COUNCIL,Recipient Profile 10076,SOM-ID-10076,Bay,Rice (MT),266.73
+WFP_PARTNER_A,Recipient Profile 10069,SOM-ID-10069,Benadir,Water Purification Kits,77.37
+WFP_PARTNER_B,Recipient Profile 10632,SOM-ID-10632,Benadir,PlumpyNut (KG),257.81
+NGO_COUNCIL,Recipient Profile 10012,SOM-ID-10012,Gedo,Rice (MT),13.24
+WFP_PARTNER_A,Recipient Profile 10514,SOM-ID-10514,Bari,High Energy Biscuits (KG),272.51
+NGO_COUNCIL,Recipient Profile 10246,SOM-ID-10246,Bay,Rice (MT),459.84
+WFP_PARTNER_B,Recipient Profile 10406,SOM-ID-10406,Bari,High Energy Biscuits (KG),409.46
+WFP_PARTNER_A,Recipient Profile 10713,SOM-ID-10713,Lower Shabelle,Water Purification Kits,234.91
+WFP_PARTNER_B,Recipient Profile 10777,SOM-ID-10777,Lower Shabelle,Rice (MT),330.33
+WFP_PARTNER_A,Recipient Profile 10057,SOM-ID-10057,Benadir,Water Purification Kits,195.84
+WFP_PARTNER_A,Recipient Profile 10803,SOM-ID-10803,Bay,Rice (MT),254.93
+UN_AGENCY_LOCAL,Recipient Profile 10235,SOM-ID-10235,Bari,Rice (MT),448.45
+WFP_PARTNER_B,Recipient Profile 10700,SOM-ID-10700,Bari,Water Purification Kits,142.84
+UN_AGENCY_LOCAL,Recipient Profile 10016,SOM-ID-10016,Bari,Rice (MT),97.88
+WFP_PARTNER_B,Recipient Profile 10407,SOM-ID-10407,Bari,PlumpyNut (KG),378.6
+WFP_PARTNER_A,Recipient Profile 10869,SOM-ID-10869,Lower Shabelle,PlumpyNut (KG),286.34
+NGO_COUNCIL,Recipient Profile 10809,SOM-ID-10809,Bari,High Energy Biscuits (KG),198.08
+WFP_PARTNER_A,Recipient Profile 10858,SOM-ID-10858,Bari,High Energy Biscuits (KG),36.31
+WFP_PARTNER_A,Recipient Profile 10649,SOM-ID-10649,Lower Shabelle,Water Purification Kits,484.77
+UN_AGENCY_LOCAL,Recipient Profile 10384,SOM-ID-10384,Gedo,Water Purification Kits,121.79
+NGO_COUNCIL,Recipient Profile 10817,SOM-ID-10817,Bay,Water Purification Kits,51.99
+WFP_PARTNER_B,Recipient Profile 10802,SOM-ID-10802,Benadir,Rice (MT),141.31
+  WFP_PARTNER_B ,Recipient Profile 10315,SOM-ID-10315,Gedo,High Energy Biscuits (KG),186.74
+  NGO_COUNCIL ,Recipient Profile 10441,SOM-ID-10441,Lower Shabelle,High Energy Biscuits (KG),60.09
+  NGO_COUNCIL ,Recipient Profile 10567,SOM-ID-10567,Bari,Water Purification Kits,60.61
+  WFP_PARTNER_A ,Recipient Profile 10423,SOM-ID-10423,Bari,High Energy Biscuits (KG),433.22
+  NGO_COUNCIL ,Recipient Profile 10389,SOM-ID-10389,Benadir,PlumpyNut (KG),290.26
+WFP_PARTNER_B,Recipient Profile 10064,SOM-ID-10064,Bay,High Energy Biscuits (KG),157.55
+WFP_PARTNER_B,Recipient Profile 10078,SOM-ID-10078,Gedo,High Energy Biscuits (KG),216.34
+UN_AGENCY_LOCAL,Recipient Profile 10631,SOM-ID-10631,Lower Shabelle,PlumpyNut (KG),363.24
+  WFP_PARTNER_B ,Recipient Profile 10405,SOM-ID-10405,Gedo,Rice (MT),76.39
+UN_AGENCY_LOCAL,Recipient Profile 10342,SOM-ID-10342,Bari,Water Purification Kits,404.0
+NGO_COUNCIL,Recipient Profile 10711,SOM-ID-10711,Bari,PlumpyNut (KG),157.21
+WFP_PARTNER_B,Recipient Profile 10326,SOM-ID-10326,Gedo,High Energy Biscuits (KG),97.04
+UN_AGENCY_LOCAL,Recipient Profile 10804,SOM-ID-10804,Gedo,PlumpyNut (KG),169.68
+  NGO_COUNCIL ,Recipient Profile 10558,SOM-ID-10558,Lower Shabelle,Rice (MT),466.71
+WFP_PARTNER_B,Recipient Profile 10725,SOM-ID-10725,Bari,Rice (MT),476.97
+  WFP_PARTNER_B ,Recipient Profile 10868,SOM-ID-10868,Gedo,High Energy Biscuits (KG),417.33
+NGO_COUNCIL,Recipient Profile 10674,SOM-ID-10674,Gedo,PlumpyNut (KG),320.33
+WFP_PARTNER_B,Recipient Profile 10490,SOM-ID-10490,Gedo,Water Purification Kits,46.24
+NGO_COUNCIL,Recipient Profile 10368,SOM-ID-10368,Bari,Water Purification Kits,276.39
+WFP_PARTNER_A,Recipient Profile 10662,SOM-ID-10662,Benadir,PlumpyNut (KG),332.22
+WFP_PARTNER_A,Recipient Profile 10815,SOM-ID-10815,Bari,Water Purification Kits,483.74
+NGO_COUNCIL,Recipient Profile 10764,SOM-ID-10764,Benadir,Rice (MT),58.32
+WFP_PARTNER_B,Recipient Profile 10602,SOM-ID-10602,Gedo,High Energy Biscuits (KG),201.66
+WFP_PARTNER_B,Recipient Profile 10942,SOM-ID-10942,Lower Shabelle,Rice (MT),246.56
+WFP_PARTNER_A,Recipient Profile 10803,SOM-ID-10803,Benadir,PlumpyNut (KG),180.68
+  WFP_PARTNER_B ,Recipient Profile 10739,SOM-ID-10739,Bari,Water Purification Kits,180.67
+NGO_COUNCIL,Recipient Profile 10117,SOM-ID-10117,Lower Shabelle,Rice (MT),157.13
+  WFP_PARTNER_A ,Recipient Profile 10758,SOM-ID-10758,Lower Shabelle,Rice (MT),341.8
+WFP_PARTNER_B,Recipient Profile 10436,SOM-ID-10436,Bari,PlumpyNut (KG),280.44
+  NGO_COUNCIL ,Recipient Profile 10673,SOM-ID-10673,Bay,Water Purification Kits,318.58
+NGO_COUNCIL,Recipient Profile 10460,SOM-ID-10460,Gedo,Rice (MT),371.32
+NGO_COUNCIL,Recipient Profile 10770,SOM-ID-10770,Gedo,Rice (MT),355.32
+WFP_PARTNER_A,Recipient Profile 10374,SOM-ID-10374,Bari,Rice (MT),401.76
+UN_AGENCY_LOCAL,Recipient Profile 10501,SOM-ID-10501,Bay,Water Purification Kits,65.84
+UN_AGENCY_LOCAL,Recipient Profile 10356,SOM-ID-10356,Bari,Water Purification Kits,309.54
+UN_AGENCY_LOCAL,Recipient Profile 10304,SOM-ID-10304,Gedo,PlumpyNut (KG),408.73
+WFP_PARTNER_A,UNKNOWN RECORD,,Bay,High Energy Biscuits (KG),67.75
+WFP_PARTNER_B,Recipient Profile 10141,SOM-ID-10141,Lower Shabelle,PlumpyNut (KG),260.3
+NGO_COUNCIL,Recipient Profile 10941,SOM-ID-10941,Gedo,PlumpyNut (KG),248.47
+  WFP_PARTNER_B ,Recipient Profile 10322,SOM-ID-10322,Bari,PlumpyNut (KG),249.92
+NGO_COUNCIL,Recipient Profile 10496,SOM-ID-10496,Bari,Rice (MT),434.11
+WFP_PARTNER_B,Recipient Profile 10506,SOM-ID-10506,Bay,Water Purification Kits,482.28
+NGO_COUNCIL,Recipient Profile 10171,SOM-ID-10171,Gedo,Water Purification Kits,357.97
+WFP_PARTNER_A,Recipient Profile 10033,SOM-ID-10033,Bari,Rice (MT),399.98
+UN_AGENCY_LOCAL,Recipient Profile 10760,SOM-ID-10760,Bay,High Energy Biscuits (KG),92.42
+NGO_COUNCIL,Recipient Profile 10556,SOM-ID-10556,Bari,Rice (MT),290.63
+UN_AGENCY_LOCAL,Recipient Profile 10223,SOM-ID-10223,Bari,Rice (MT),382.4
+NGO_COUNCIL,Recipient Profile 10460,SOM-ID-10460,Benadir,PlumpyNut (KG),155.88
+UN_AGENCY_LOCAL,Recipient Profile 10794,SOM-ID-10794,Lower Shabelle,Rice (MT),225.14
+WFP_PARTNER_B,Recipient Profile 10438,SOM-ID-10438,Bay,High Energy Biscuits (KG),431.91
+WFP_PARTNER_B,Recipient Profile 10824,SOM-ID-10824,Bari,PlumpyNut (KG),394.58
+WFP_PARTNER_A,Recipient Profile 10172,SOM-ID-10172,Bari,High Energy Biscuits (KG),270.82
+UN_AGENCY_LOCAL,Recipient Profile 10526,SOM-ID-10526,Lower Shabelle,High Energy Biscuits (KG),290.64
+WFP_PARTNER_A,Recipient Profile 10887,SOM-ID-10887,Bay,Water Purification Kits,460.2
+WFP_PARTNER_B,Recipient Profile 10253,SOM-ID-10253,Bay,PlumpyNut (KG),81.66
+NGO_COUNCIL,Recipient Profile 10424,SOM-ID-10424,Gedo,PlumpyNut (KG),292.94
+NGO_COUNCIL,Recipient Profile 10095,SOM-ID-10095,Gedo,Rice (MT),320.48
+NGO_COUNCIL,Recipient Profile 10465,SOM-ID-10465,Bari,High Energy Biscuits (KG),350.4
+NGO_COUNCIL,Recipient Profile 10095,SOM-ID-10095,Lower Shabelle,Rice (MT),435.76
+NGO_COUNCIL,Recipient Profile 10439,SOM-ID-10439,Lower Shabelle,Rice (MT),399.88
+WFP_PARTNER_B,Recipient Profile 10560,SOM-ID-10560,Gedo,High Energy Biscuits (KG),168.2
+WFP_PARTNER_B,Recipient Profile 10780,SOM-ID-10780,Bari,Water Purification Kits,396.27
+WFP_PARTNER_A,Recipient Profile 10016,SOM-ID-10016,Benadir,Rice (MT),316.83
+WFP_PARTNER_A,Recipient Profile 10438,SOM-ID-10438,Bay,Water Purification Kits,233.69
+WFP_PARTNER_B,Recipient Profile 10280,SOM-ID-10280,Bay,High Energy Biscuits (KG),87.9
+WFP_PARTNER_A,Recipient Profile 10664,SOM-ID-10664,Lower Shabelle,High Energy Biscuits (KG),50.39
+WFP_PARTNER_B,Recipient Profile 10773,SOM-ID-10773,Benadir,Water Purification Kits,316.55
+  WFP_PARTNER_B ,Recipient Profile 10488,SOM-ID-10488,Gedo,Rice (MT),354.81
+WFP_PARTNER_A,Recipient Profile 10008,SOM-ID-10008,Bay,PlumpyNut (KG),264.53
+UN_AGENCY_LOCAL,Recipient Profile 10234,SOM-ID-10234,Benadir,Water Purification Kits,350.08
+NGO_COUNCIL,Recipient Profile 10306,SOM-ID-10306,Benadir,Rice (MT),60.57
+WFP_PARTNER_B,Recipient Profile 10070,SOM-ID-10070,Gedo,PlumpyNut (KG),324.37
+WFP_PARTNER_A,Recipient Profile 10643,SOM-ID-10643,Bari,PlumpyNut (KG),225.65
+  WFP_PARTNER_B ,Recipient Profile 10102,SOM-ID-10102,Gedo,Water Purification Kits,431.38
+WFP_PARTNER_B,Recipient Profile 10810,SOM-ID-10810,Benadir,Water Purification Kits,182.25
+WFP_PARTNER_B,Recipient Profile 10615,SOM-ID-10615,Bay,High Energy Biscuits (KG),325.86
+UN_AGENCY_LOCAL,Recipient Profile 10193,SOM-ID-10193,Benadir,High Energy Biscuits (KG),110.67
+NGO_COUNCIL,Recipient Profile 10245,SOM-ID-10245,Lower Shabelle,Rice (MT),394.06
+NGO_COUNCIL,Recipient Profile 10072,SOM-ID-10072,Gedo,Rice (MT),128.13
+WFP_PARTNER_A,Recipient Profile 10582,SOM-ID-10582,Lower Shabelle,High Energy Biscuits (KG),74.67
+NGO_COUNCIL,Recipient Profile 10788,SOM-ID-10788,Lower Shabelle,PlumpyNut (KG),383.74
+WFP_PARTNER_A,Recipient Profile 10944,SOM-ID-10944,Benadir,Rice (MT),16.76
+WFP_PARTNER_A,Recipient Profile 10425,SOM-ID-10425,Gedo,High Energy Biscuits (KG),318.0
+NGO_COUNCIL,Recipient Profile 10156,SOM-ID-10156,Gedo,Rice (MT),323.86
+UN_AGENCY_LOCAL,Recipient Profile 10827,SOM-ID-10827,Benadir,High Energy Biscuits (KG),48.72
+WFP_PARTNER_B,Recipient Profile 10854,SOM-ID-10854,Bari,High Energy Biscuits (KG),201.46
+WFP_PARTNER_A,Recipient Profile 10059,SOM-ID-10059,Lower Shabelle,Water Purification Kits,367.68
+WFP_PARTNER_B,Recipient Profile 10056,SOM-ID-10056,Benadir,Water Purification Kits,66.83
+  UN_AGENCY_LOCAL ,Recipient Profile 10011,SOM-ID-10011,Bay,Rice (MT),16.21
+WFP_PARTNER_B,Recipient Profile 10738,SOM-ID-10738,Gedo,High Energy Biscuits (KG),266.27
+UN_AGENCY_LOCAL,Recipient Profile 10275,SOM-ID-10275,Bay,High Energy Biscuits (KG),72.2
+WFP_PARTNER_A,Recipient Profile 10065,SOM-ID-10065,Benadir,High Energy Biscuits (KG),405.48
+UN_AGENCY_LOCAL,Recipient Profile 10056,SOM-ID-10056,Bari,Rice (MT),253.11
+NGO_COUNCIL,Recipient Profile 10105,SOM-ID-10105,Bari,PlumpyNut (KG),190.17
+WFP_PARTNER_A,Recipient Profile 10250,SOM-ID-10250,Bay,Rice (MT),31.58
+  WFP_PARTNER_A ,Recipient Profile 10878,SOM-ID-10878,Gedo,High Energy Biscuits (KG),197.66
+WFP_PARTNER_A,Recipient Profile 10937,SOM-ID-10937,Bari,Water Purification Kits,120.01
+  UN_AGENCY_LOCAL ,Recipient Profile 10689,SOM-ID-10689,Lower Shabelle,Rice (MT),290.05
+WFP_PARTNER_A,Recipient Profile 10410,SOM-ID-10410,Bay,PlumpyNut (KG),404.13
+WFP_PARTNER_A,Recipient Profile 10088,SOM-ID-10088,Gedo,High Energy Biscuits (KG),389.03
+NGO_COUNCIL,Recipient Profile 10311,SOM-ID-10311,Benadir,High Energy Biscuits (KG),108.33
+WFP_PARTNER_B,Recipient Profile 10791,SOM-ID-10791,Gedo,High Energy Biscuits (KG),299.93
+WFP_PARTNER_B,Recipient Profile 10024,SOM-ID-10024,Bari,PlumpyNut (KG),83.78
+WFP_PARTNER_B,Recipient Profile 10009,SOM-ID-10009,Bari,High Energy Biscuits (KG),321.61
+UN_AGENCY_LOCAL,Recipient Profile 10106,SOM-ID-10106,Benadir,Water Purification Kits,426.01
+WFP_PARTNER_B,Recipient Profile 10145,SOM-ID-10145,Bari,PlumpyNut (KG),215.71
+UN_AGENCY_LOCAL,Recipient Profile 10532,SOM-ID-10532,Benadir,Rice (MT),461.42
+  NGO_COUNCIL ,Recipient Profile 10097,SOM-ID-10097,Lower Shabelle,Water Purification Kits,487.53
+  WFP_PARTNER_B ,Recipient Profile 10678,SOM-ID-10678,Gedo,Rice (MT),300.03
+WFP_PARTNER_B,Recipient Profile 10820,SOM-ID-10820,Bay,High Energy Biscuits (KG),137.89
+NGO_COUNCIL,Recipient Profile 10207,SOM-ID-10207,Lower Shabelle,High Energy Biscuits (KG),231.85
+  WFP_PARTNER_B ,Recipient Profile 10477,SOM-ID-10477,Bari,Rice (MT),86.15
+UN_AGENCY_LOCAL,Recipient Profile 10212,SOM-ID-10212,Gedo,Rice (MT),272.6
+  NGO_COUNCIL ,Recipient Profile 10161,SOM-ID-10161,Lower Shabelle,Water Purification Kits,139.85
+UN_AGENCY_LOCAL,Recipient Profile 10151,SOM-ID-10151,Bari,Rice (MT),115.36
+  WFP_PARTNER_A ,Recipient Profile 10306,SOM-ID-10306,Bay,High Energy Biscuits (KG),204.16
+UN_AGENCY_LOCAL,Recipient Profile 10569,SOM-ID-10569,Bay,Rice (MT),476.53
+WFP_PARTNER_B,Recipient Profile 10124,SOM-ID-10124,Benadir,Water Purification Kits,59.93
+WFP_PARTNER_A,Recipient Profile 10381,SOM-ID-10381,Benadir,PlumpyNut (KG),74.05
+  WFP_PARTNER_A ,Recipient Profile 10066,SOM-ID-10066,Bari,High Energy Biscuits (KG),459.54
+WFP_PARTNER_B,Recipient Profile 10828,SOM-ID-10828,Gedo,PlumpyNut (KG),55.07
+  UN_AGENCY_LOCAL ,Recipient Profile 10946,SOM-ID-10946,Benadir,Rice (MT),471.72
+NGO_COUNCIL,Recipient Profile 10176,SOM-ID-10176,Gedo,Water Purification Kits,24.45
+UN_AGENCY_LOCAL,Recipient Profile 10152,SOM-ID-10152,Bay,PlumpyNut (KG),144.74
+WFP_PARTNER_A,Recipient Profile 10903,SOM-ID-10903,Bari,PlumpyNut (KG),327.17
+  NGO_COUNCIL ,Recipient Profile 10204,SOM-ID-10204,Benadir,Rice (MT),147.09
+WFP_PARTNER_B,Recipient Profile 10367,SOM-ID-10367,Bari,Rice (MT),494.81
+NGO_COUNCIL,Recipient Profile 10329,SOM-ID-10329,Bari,Water Purification Kits,178.58
+NGO_COUNCIL,Recipient Profile 10030,SOM-ID-10030,Lower Shabelle,PlumpyNut (KG),22.77
+UN_AGENCY_LOCAL,Recipient Profile 10238,SOM-ID-10238,Benadir,Water Purification Kits,269.42
+WFP_PARTNER_B,Recipient Profile 10835,SOM-ID-10835,Benadir,PlumpyNut (KG),331.86
+WFP_PARTNER_A,Recipient Profile 10865,SOM-ID-10865,Bay,Water Purification Kits,183.85
+WFP_PARTNER_B,Recipient Profile 10714,SOM-ID-10714,Bay,PlumpyNut (KG),300.33
+UN_AGENCY_LOCAL,Recipient Profile 10581,SOM-ID-10581,Bari,Rice (MT),354.69
+WFP_PARTNER_B,Recipient Profile 10504,SOM-ID-10504,Bari,PlumpyNut (KG),419.98
+  UN_AGENCY_LOCAL ,Recipient Profile 10616,SOM-ID-10616,Bay,Water Purification Kits,28.6
+WFP_PARTNER_B,Recipient Profile 10206,SOM-ID-10206,Benadir,Water Purification Kits,10.33
+WFP_PARTNER_B,Recipient Profile 10331,SOM-ID-10331,Lower Shabelle,PlumpyNut (KG),460.2
+WFP_PARTNER_A,Recipient Profile 10792,SOM-ID-10792,Benadir,PlumpyNut (KG),297.44
+WFP_PARTNER_A,Recipient Profile 10678,SOM-ID-10678,Bari,High Energy Biscuits (KG),480.67
+NGO_COUNCIL,Recipient Profile 10161,SOM-ID-10161,Bari,Rice (MT),174.91
+NGO_COUNCIL,Recipient Profile 10710,SOM-ID-10710,Gedo,High Energy Biscuits (KG),95.36
+UN_AGENCY_LOCAL,Recipient Profile 10301,SOM-ID-10301,Bay,PlumpyNut (KG),195.41
+WFP_PARTNER_B,Recipient Profile 10400,SOM-ID-10400,Bay,Rice (MT),474.91
+WFP_PARTNER_A,Recipient Profile 10226,SOM-ID-10226,Bay,High Energy Biscuits (KG),461.31
+  WFP_PARTNER_A ,Recipient Profile 10355,SOM-ID-10355,Gedo,PlumpyNut (KG),172.27
+UN_AGENCY_LOCAL,Recipient Profile 10746,SOM-ID-10746,Bay,Rice (MT),412.61
+UN_AGENCY_LOCAL,Recipient Profile 10069,SOM-ID-10069,Gedo,Rice (MT),139.95
+  UN_AGENCY_LOCAL ,Recipient Profile 10448,SOM-ID-10448,Lower Shabelle,Rice (MT),363.0
+NGO_COUNCIL,Recipient Profile 10559,SOM-ID-10559,Bay,Water Purification Kits,251.61
+NGO_COUNCIL,Recipient Profile 10776,SOM-ID-10776,Benadir,Water Purification Kits,396.48
+WFP_PARTNER_B,Recipient Profile 10301,SOM-ID-10301,Bay,Water Purification Kits,46.12
+  WFP_PARTNER_A ,Recipient Profile 10174,SOM-ID-10174,Lower Shabelle,High Energy Biscuits (KG),476.31
+NGO_COUNCIL,Recipient Profile 10095,SOM-ID-10095,Bay,Rice (MT),278.05
+UN_AGENCY_LOCAL,Recipient Profile 10669,SOM-ID-10669,Bari,Water Purification Kits,355.21
+  WFP_PARTNER_B ,Recipient Profile 10210,SOM-ID-10210,Bari,Water Purification Kits,86.98
+WFP_PARTNER_B,Recipient Profile 10098,SOM-ID-10098,Gedo,High Energy Biscuits (KG),333.69
+WFP_PARTNER_A,Recipient Profile 10437,SOM-ID-10437,Gedo,Water Purification Kits,85.26
+  WFP_PARTNER_A ,Recipient Profile 10174,SOM-ID-10174,Lower Shabelle,Water Purification Kits,107.84
+UN_AGENCY_LOCAL,Recipient Profile 10407,SOM-ID-10407,Benadir,Water Purification Kits,423.45
+NGO_COUNCIL,Recipient Profile 10189,SOM-ID-10189,Gedo,High Energy Biscuits (KG),54.66
+  UN_AGENCY_LOCAL ,Recipient Profile 10450,SOM-ID-10450,Gedo,High Energy Biscuits (KG),101.43
+NGO_COUNCIL,Recipient Profile 10154,SOM-ID-10154,Lower Shabelle,PlumpyNut (KG),420.17
+WFP_PARTNER_A,Recipient Profile 10774,SOM-ID-10774,Benadir,High Energy Biscuits (KG),406.01
+WFP_PARTNER_B,Recipient Profile 10428,SOM-ID-10428,Bari,Rice (MT),421.99
+  NGO_COUNCIL ,Recipient Profile 10924,SOM-ID-10924,Bari,PlumpyNut (KG),243.37
+WFP_PARTNER_A,Recipient Profile 10177,SOM-ID-10177,Bari,PlumpyNut (KG),68.94
+WFP_PARTNER_B,Recipient Profile 10699,SOM-ID-10699,Bay,PlumpyNut (KG),71.83
+NGO_COUNCIL,Recipient Profile 10932,SOM-ID-10932,Bay,PlumpyNut (KG),418.71
+WFP_PARTNER_A,Recipient Profile 10877,SOM-ID-10877,Benadir,Water Purification Kits,282.62
+  UN_AGENCY_LOCAL ,Recipient Profile 10717,SOM-ID-10717,Bari,Water Purification Kits,459.41
+NGO_COUNCIL,Recipient Profile 10596,SOM-ID-10596,Benadir,Water Purification Kits,83.32
+WFP_PARTNER_A,Recipient Profile 10901,SOM-ID-10901,Benadir,Rice (MT),395.02
+UN_AGENCY_LOCAL,Recipient Profile 10623,SOM-ID-10623,Gedo,High Energy Biscuits (KG),197.69
+  NGO_COUNCIL ,Recipient Profile 10623,SOM-ID-10623,Benadir,PlumpyNut (KG),144.95
+NGO_COUNCIL,Recipient Profile 10243,SOM-ID-10243,Benadir,Water Purification Kits,445.89
+  WFP_PARTNER_A ,Recipient Profile 10837,SOM-ID-10837,Gedo,High Energy Biscuits (KG),449.55
+UN_AGENCY_LOCAL,Recipient Profile 10701,SOM-ID-10701,Lower Shabelle,High Energy Biscuits (KG),422.99
+WFP_PARTNER_A,Recipient Profile 10792,SOM-ID-10792,Bay,PlumpyNut (KG),157.24
+  UN_AGENCY_LOCAL ,Recipient Profile 10452,SOM-ID-10452,Lower Shabelle,Water Purification Kits,306.44
+WFP_PARTNER_B,Recipient Profile 10840,SOM-ID-10840,Gedo,Water Purification Kits,382.15
+WFP_PARTNER_A,Recipient Profile 10413,SOM-ID-10413,Bari,PlumpyNut (KG),42.15
+WFP_PARTNER_B,Recipient Profile 10205,SOM-ID-10205,Bari,Rice (MT),95.13
+WFP_PARTNER_A,Recipient Profile 10721,SOM-ID-10721,Bay,Rice (MT),233.66
+WFP_PARTNER_B,Recipient Profile 10650,SOM-ID-10650,Lower Shabelle,High Energy Biscuits (KG),413.52
+WFP_PARTNER_A,Recipient Profile 10181,SOM-ID-10181,Benadir,PlumpyNut (KG),192.51
+NGO_COUNCIL,HASINA MOHAMED AHMED,SOM-ID-10555,Bari,High Energy Biscuits (KG),178.68
+  WFP_PARTNER_A ,  hasina mohamed ahmed ,SOM-ID-10555,Lower Shabelle,Rice (MT),199.42
+WFP_PARTNER_B,Recipient Profile 10419,SOM-ID-10419,Bay,PlumpyNut (KG),342.07
+WFP_PARTNER_A,Recipient Profile 10615,SOM-ID-10615,Benadir,Water Purification Kits,456.64
+WFP_PARTNER_A,Recipient Profile 10729,SOM-ID-10729,Bay,High Energy Biscuits (KG),308.09
+UN_AGENCY_LOCAL,Recipient Profile 10223,SOM-ID-10223,Gedo,Water Purification Kits,427.28
+  NGO_COUNCIL ,Recipient Profile 10678,SOM-ID-10678,Lower Shabelle,Water Purification Kits,296.4
+  UN_AGENCY_LOCAL ,Recipient Profile 10065,SOM-ID-10065,Bari,High Energy Biscuits (KG),156.25
+UN_AGENCY_LOCAL,Recipient Profile 10728,SOM-ID-10728,Lower Shabelle,High Energy Biscuits (KG),432.13
+UN_AGENCY_LOCAL,Recipient Profile 10058,SOM-ID-10058,Bay,PlumpyNut (KG),263.47
+NGO_COUNCIL,Recipient Profile 10302,SOM-ID-10302,Lower Shabelle,PlumpyNut (KG),363.43
+  UN_AGENCY_LOCAL ,Recipient Profile 10725,SOM-ID-10725,Gedo,Water Purification Kits,200.25
+WFP_PARTNER_B,Recipient Profile 10487,SOM-ID-10487,Lower Shabelle,PlumpyNut (KG),346.3
+UN_AGENCY_LOCAL,Recipient Profile 10897,SOM-ID-10897,Bari,High Energy Biscuits (KG),424.26
+WFP_PARTNER_B,Recipient Profile 10742,SOM-ID-10742,Lower Shabelle,Rice (MT),240.68
+WFP_PARTNER_B,Recipient Profile 10892,SOM-ID-10892,Lower Shabelle,Rice (MT),118.9
+UN_AGENCY_LOCAL,Recipient Profile 10474,SOM-ID-10474,Gedo,High Energy Biscuits (KG),192.12
+WFP_PARTNER_A,Recipient Profile 10635,SOM-ID-10635,Gedo,Rice (MT),434.53
+WFP_PARTNER_A,Recipient Profile 10390,SOM-ID-10390,Gedo,PlumpyNut (KG),255.23
+  UN_AGENCY_LOCAL ,Recipient Profile 10205,SOM-ID-10205,Gedo,Rice (MT),436.72
+UN_AGENCY_LOCAL,Recipient Profile 10184,SOM-ID-10184,Gedo,Water Purification Kits,80.18
+  WFP_PARTNER_A ,Recipient Profile 10649,SOM-ID-10649,Gedo,High Energy Biscuits (KG),319.21
+WFP_PARTNER_A,Recipient Profile 10172,SOM-ID-10172,Benadir,Water Purification Kits,144.03
+WFP_PARTNER_B,Recipient Profile 10439,SOM-ID-10439,Gedo,Rice (MT),73.41
+  NGO_COUNCIL ,Recipient Profile 10204,SOM-ID-10204,Gedo,Water Purification Kits,197.83
+UN_AGENCY_LOCAL,Recipient Profile 10018,SOM-ID-10018,Benadir,High Energy Biscuits (KG),380.86
+WFP_PARTNER_A,Recipient Profile 10132,SOM-ID-10132,Bay,PlumpyNut (KG),349.83
+WFP_PARTNER_A,Recipient Profile 10305,SOM-ID-10305,Gedo,High Energy Biscuits (KG),91.84
+UN_AGENCY_LOCAL,Recipient Profile 10137,SOM-ID-10137,Gedo,High Energy Biscuits (KG),222.5
+  UN_AGENCY_LOCAL ,Recipient Profile 10928,SOM-ID-10928,Gedo,High Energy Biscuits (KG),377.56
+NGO_COUNCIL,Recipient Profile 10216,SOM-ID-10216,Benadir,PlumpyNut (KG),119.92
+WFP_PARTNER_A,Recipient Profile 10811,SOM-ID-10811,Bari,PlumpyNut (KG),70.35
+WFP_PARTNER_A,Recipient Profile 10608,SOM-ID-10608,Gedo,High Energy Biscuits (KG),387.91
+  WFP_PARTNER_A ,Recipient Profile 10454,SOM-ID-10454,Benadir,Rice (MT),33.64
+  NGO_COUNCIL ,Recipient Profile 10711,SOM-ID-10711,Benadir,High Energy Biscuits (KG),242.45
+WFP_PARTNER_A,Recipient Profile 10276,SOM-ID-10276,Lower Shabelle,Water Purification Kits,334.22
+WFP_PARTNER_B,Recipient Profile 10289,SOM-ID-10289,Gedo,Rice (MT),260.68
+  WFP_PARTNER_A ,Recipient Profile 10269,SOM-ID-10269,Benadir,Water Purification Kits,107.34
+  WFP_PARTNER_B ,Recipient Profile 10508,SOM-ID-10508,Lower Shabelle,Water Purification Kits,154.72
+  WFP_PARTNER_B ,Recipient Profile 10091,SOM-ID-10091,Gedo,High Energy Biscuits (KG),124.91
+  WFP_PARTNER_A ,Recipient Profile 10523,SOM-ID-10523,Bari,Water Purification Kits,83.08
+WFP_PARTNER_A,Recipient Profile 10303,SOM-ID-10303,Benadir,High Energy Biscuits (KG),325.73
+  UN_AGENCY_LOCAL ,Recipient Profile 10040,SOM-ID-10040,Gedo,Rice (MT),58.91
+  UN_AGENCY_LOCAL ,Recipient Profile 10871,SOM-ID-10871,Lower Shabelle,High Energy Biscuits (KG),218.74
+  WFP_PARTNER_A ,Recipient Profile 10366,SOM-ID-10366,Benadir,PlumpyNut (KG),335.04
+  NGO_COUNCIL ,Recipient Profile 10834,SOM-ID-10834,Bari,High Energy Biscuits (KG),440.45
+UN_AGENCY_LOCAL,Recipient Profile 10278,SOM-ID-10278,Bay,Rice (MT),206.38
+NGO_COUNCIL,Recipient Profile 10115,SOM-ID-10115,Gedo,Water Purification Kits,327.93
+WFP_PARTNER_B,Recipient Profile 10494,SOM-ID-10494,Benadir,PlumpyNut (KG),60.82
+NGO_COUNCIL,Recipient Profile 10883,SOM-ID-10883,Bay,Water Purification Kits,391.79
+WFP_PARTNER_B,Recipient Profile 10047,SOM-ID-10047,Gedo,Water Purification Kits,65.34
+WFP_PARTNER_A,Recipient Profile 10537,SOM-ID-10537,Lower Shabelle,High Energy Biscuits (KG),16.06
+WFP_PARTNER_B,Recipient Profile 10493,SOM-ID-10493,Lower Shabelle,Rice (MT),222.1
+UN_AGENCY_LOCAL,Recipient Profile 10627,SOM-ID-10627,Gedo,PlumpyNut (KG),421.13
+WFP_PARTNER_A,Recipient Profile 10507,SOM-ID-10507,Benadir,PlumpyNut (KG),257.73
+WFP_PARTNER_B,Recipient Profile 10284,SOM-ID-10284,Benadir,Water Purification Kits,167.11
+WFP_PARTNER_A,Recipient Profile 10836,SOM-ID-10836,Bari,PlumpyNut (KG),279.74
+WFP_PARTNER_B,Recipient Profile 10090,SOM-ID-10090,Benadir,Water Purification Kits,227.65
+NGO_COUNCIL,Recipient Profile 10669,SOM-ID-10669,Gedo,High Energy Biscuits (KG),68.17
+WFP_PARTNER_A,Recipient Profile 10000,SOM-ID-10000,Benadir,Water Purification Kits,212.05
+WFP_PARTNER_A,Recipient Profile 10670,SOM-ID-10670,Bari,High Energy Biscuits (KG),446.15
+NGO_COUNCIL,Recipient Profile 10864,SOM-ID-10864,Lower Shabelle,High Energy Biscuits (KG),414.4
+NGO_COUNCIL,Recipient Profile 10463,SOM-ID-10463,Lower Shabelle,Water Purification Kits,361.16
+WFP_PARTNER_A,Recipient Profile 10648,SOM-ID-10648,Benadir,PlumpyNut (KG),11.08
+  UN_AGENCY_LOCAL ,Recipient Profile 10168,SOM-ID-10168,Bari,High Energy Biscuits (KG),354.03
+NGO_COUNCIL,Recipient Profile 10192,SOM-ID-10192,Bay,Water Purification Kits,62.41
+WFP_PARTNER_A,Recipient Profile 10733,SOM-ID-10733,Gedo,PlumpyNut (KG),233.95
+UN_AGENCY_LOCAL,Recipient Profile 10688,SOM-ID-10688,Benadir,Water Purification Kits,32.79
+WFP_PARTNER_A,Recipient Profile 10137,SOM-ID-10137,Gedo,Water Purification Kits,332.64
+NGO_COUNCIL,Recipient Profile 10599,SOM-ID-10599,Benadir,Rice (MT),281.08
+  NGO_COUNCIL ,Recipient Profile 10834,SOM-ID-10834,Bari,PlumpyNut (KG),348.99
+WFP_PARTNER_B,Recipient Profile 10329,SOM-ID-10329,Benadir,Water Purification Kits,332.19
+NGO_COUNCIL,Recipient Profile 10301,SOM-ID-10301,Gedo,PlumpyNut (KG),144.06
+NGO_COUNCIL,Recipient Profile 10766,SOM-ID-10766,Bay,PlumpyNut (KG),212.25
+UN_AGENCY_LOCAL,Recipient Profile 10647,SOM-ID-10647,Bari,High Energy Biscuits (KG),358.82
+WFP_PARTNER_B,Recipient Profile 10353,SOM-ID-10353,Bay,PlumpyNut (KG),315.84
+WFP_PARTNER_B,Recipient Profile 10575,SOM-ID-10575,Bay,High Energy Biscuits (KG),358.07
+NGO_COUNCIL,Recipient Profile 10546,SOM-ID-10546,Bari,Water Purification Kits,340.38
+  UN_AGENCY_LOCAL ,Recipient Profile 10148,SOM-ID-10148,Gedo,Rice (MT),266.14
+WFP_PARTNER_A,Recipient Profile 10293,SOM-ID-10293,Benadir,PlumpyNut (KG),140.82
+UN_AGENCY_LOCAL,Recipient Profile 10771,SOM-ID-10771,Bay,Rice (MT),348.39
+WFP_PARTNER_A,Recipient Profile 10757,SOM-ID-10757,Lower Shabelle,Water Purification Kits,60.22
+WFP_PARTNER_B,Recipient Profile 10817,SOM-ID-10817,Bari,Water Purification Kits,126.42
+UN_AGENCY_LOCAL,Recipient Profile 10701,SOM-ID-10701,Benadir,Water Purification Kits,199.9
+UN_AGENCY_LOCAL,Recipient Profile 10635,SOM-ID-10635,Bari,Rice (MT),16.35
+NGO_COUNCIL,Recipient Profile 10617,SOM-ID-10617,Bay,High Energy Biscuits (KG),380.0
+WFP_PARTNER_B,Recipient Profile 10076,SOM-ID-10076,Bay,High Energy Biscuits (KG),229.92
+WFP_PARTNER_B,Recipient Profile 10569,SOM-ID-10569,Bay,Rice (MT),194.83
+UN_AGENCY_LOCAL,Recipient Profile 10338,SOM-ID-10338,Bay,PlumpyNut (KG),296.15
+NGO_COUNCIL,Recipient Profile 10052,SOM-ID-10052,Bay,Rice (MT),85.31
+UN_AGENCY_LOCAL,Recipient Profile 10538,SOM-ID-10538,Gedo,High Energy Biscuits (KG),45.71
+  WFP_PARTNER_B ,Recipient Profile 10556,SOM-ID-10556,Bay,Rice (MT),395.27
+NGO_COUNCIL,Recipient Profile 10339,SOM-ID-10339,Benadir,High Energy Biscuits (KG),118.39
+UN_AGENCY_LOCAL,Recipient Profile 10543,SOM-ID-10543,Lower Shabelle,High Energy Biscuits (KG),117.04
+NGO_COUNCIL,Recipient Profile 10246,SOM-ID-10246,Bari,Rice (MT),66.21
+WFP_PARTNER_B,Recipient Profile 10116,SOM-ID-10116,Benadir,High Energy Biscuits (KG),196.87
+NGO_COUNCIL,Recipient Profile 10788,SOM-ID-10788,Lower Shabelle,High Energy Biscuits (KG),22.11
+UN_AGENCY_LOCAL,Recipient Profile 10667,SOM-ID-10667,Bari,Water Purification Kits,248.53
+  WFP_PARTNER_B ,Recipient Profile 10791,SOM-ID-10791,Lower Shabelle,Rice (MT),474.62
+WFP_PARTNER_A,Recipient Profile 10885,SOM-ID-10885,Benadir,PlumpyNut (KG),338.46
+NGO_COUNCIL,Recipient Profile 10759,SOM-ID-10759,Benadir,PlumpyNut (KG),273.5
+NGO_COUNCIL,Recipient Profile 10038,SOM-ID-10038,Benadir,PlumpyNut (KG),21.64
+WFP_PARTNER_A,Recipient Profile 10072,SOM-ID-10072,Benadir,Rice (MT),97.22
+WFP_PARTNER_B,Recipient Profile 10443,SOM-ID-10443,Lower Shabelle,Water Purification Kits,200.14
+UN_AGENCY_LOCAL,Recipient Profile 10656,SOM-ID-10656,Benadir,Water Purification Kits,339.92
+  WFP_PARTNER_A ,Recipient Profile 10514,SOM-ID-10514,Bari,Rice (MT),353.43
+WFP_PARTNER_A,Recipient Profile 10948,SOM-ID-10948,Lower Shabelle,High Energy Biscuits (KG),307.22
+  NGO_COUNCIL ,Recipient Profile 10160,SOM-ID-10160,Gedo,Water Purification Kits,412.84
+WFP_PARTNER_B,Recipient Profile 10302,SOM-ID-10302,Bay,Water Purification Kits,400.42
+  WFP_PARTNER_B ,Recipient Profile 10895,SOM-ID-10895,Lower Shabelle,High Energy Biscuits (KG),479.12
+WFP_PARTNER_B,Recipient Profile 10550,SOM-ID-10550,Benadir,Rice (MT),12.46
+WFP_PARTNER_A,Recipient Profile 10352,SOM-ID-10352,Lower Shabelle,PlumpyNut (KG),376.67
+WFP_PARTNER_B,Recipient Profile 10854,SOM-ID-10854,Gedo,PlumpyNut (KG),88.87
+UN_AGENCY_LOCAL,Recipient Profile 10872,SOM-ID-10872,Bay,Rice (MT),98.87
+  WFP_PARTNER_A ,Recipient Profile 10687,SOM-ID-10687,Bari,Water Purification Kits,325.89
+WFP_PARTNER_A,Recipient Profile 10338,SOM-ID-10338,Lower Shabelle,Rice (MT),106.73
+UN_AGENCY_LOCAL,Recipient Profile 10921,SOM-ID-10921,Bay,PlumpyNut (KG),59.02
+WFP_PARTNER_B,Recipient Profile 10313,SOM-ID-10313,Lower Shabelle,Water Purification Kits,230.82
+WFP_PARTNER_B,Recipient Profile 10172,SOM-ID-10172,Bari,High Energy Biscuits (KG),405.77
+WFP_PARTNER_A,Recipient Profile 10656,SOM-ID-10656,Lower Shabelle,PlumpyNut (KG),394.97
+NGO_COUNCIL,Recipient Profile 10898,SOM-ID-10898,Lower Shabelle,High Energy Biscuits (KG),75.81
+NGO_COUNCIL,Recipient Profile 10564,SOM-ID-10564,Gedo,Water Purification Kits,185.78
+WFP_PARTNER_A,Recipient Profile 10143,SOM-ID-10143,Bay,Rice (MT),422.48
+WFP_PARTNER_B,Recipient Profile 10869,SOM-ID-10869,Lower Shabelle,Rice (MT),366.44
+WFP_PARTNER_A,Recipient Profile 10037,SOM-ID-10037,Bari,Water Purification Kits,386.91
+  UN_AGENCY_LOCAL ,Recipient Profile 10401,SOM-ID-10401,Bari,Water Purification Kits,330.41
+WFP_PARTNER_B,Recipient Profile 10092,SOM-ID-10092,Bari,High Energy Biscuits (KG),75.6
+NGO_COUNCIL,Recipient Profile 10825,SOM-ID-10825,Lower Shabelle,Rice (MT),334.71
+  WFP_PARTNER_B ,Recipient Profile 10579,SOM-ID-10579,Bari,PlumpyNut (KG),228.65
+WFP_PARTNER_B,Recipient Profile 10237,SOM-ID-10237,Gedo,High Energy Biscuits (KG),29.81
+WFP_PARTNER_A,Recipient Profile 10530,SOM-ID-10530,Lower Shabelle,High Energy Biscuits (KG),124.67
+UN_AGENCY_LOCAL,Recipient Profile 10040,SOM-ID-10040,Gedo,Water Purification Kits,459.77
+UN_AGENCY_LOCAL,Recipient Profile 10557,SOM-ID-10557,Benadir,High Energy Biscuits (KG),419.09
+WFP_PARTNER_B,Recipient Profile 10855,SOM-ID-10855,Gedo,Water Purification Kits,189.0
+WFP_PARTNER_A,Recipient Profile 10528,SOM-ID-10528,Bari,High Energy Biscuits (KG),194.4
+NGO_COUNCIL,Recipient Profile 10618,SOM-ID-10618,Lower Shabelle,High Energy Biscuits (KG),248.56
+WFP_PARTNER_A,Recipient Profile 10526,SOM-ID-10526,Bari,PlumpyNut (KG),225.55
+UN_AGENCY_LOCAL,Recipient Profile 10734,SOM-ID-10734,Bay,PlumpyNut (KG),101.58
+WFP_PARTNER_A,Recipient Profile 10493,SOM-ID-10493,Bay,Water Purification Kits,407.47
+NGO_COUNCIL,Recipient Profile 10420,SOM-ID-10420,Gedo,PlumpyNut (KG),299.49
+WFP_PARTNER_A,Recipient Profile 10137,SOM-ID-10137,Bay,Rice (MT),72.66
+WFP_PARTNER_A,Recipient Profile 10184,SOM-ID-10184,Bari,PlumpyNut (KG),37.4
+NGO_COUNCIL,Recipient Profile 10841,SOM-ID-10841,Bari,Rice (MT),440.47
+UN_AGENCY_LOCAL,Recipient Profile 10888,SOM-ID-10888,Benadir,PlumpyNut (KG),230.11
+NGO_COUNCIL,Recipient Profile 10813,SOM-ID-10813,Bay,PlumpyNut (KG),416.88
+WFP_PARTNER_B,Recipient Profile 10944,SOM-ID-10944,Bari,High Energy Biscuits (KG),92.18
+NGO_COUNCIL,Recipient Profile 10111,SOM-ID-10111,Bari,Rice (MT),122.61
+WFP_PARTNER_A,Recipient Profile 10181,SOM-ID-10181,Bay,Water Purification Kits,414.99
+NGO_COUNCIL,Recipient Profile 10770,SOM-ID-10770,Bari,Rice (MT),440.1
+WFP_PARTNER_A,Recipient Profile 10552,SOM-ID-10552,Benadir,Water Purification Kits,333.1
+  WFP_PARTNER_A ,Recipient Profile 10542,SOM-ID-10542,Gedo,Water Purification Kits,191.48
+NGO_COUNCIL,Recipient Profile 10603,SOM-ID-10603,Bay,Water Purification Kits,396.88
+WFP_PARTNER_A,Recipient Profile 10931,SOM-ID-10931,Gedo,PlumpyNut (KG),134.71
+  WFP_PARTNER_A ,Recipient Profile 10761,SOM-ID-10761,Lower Shabelle,Water Purification Kits,136.32
+WFP_PARTNER_A,Recipient Profile 10210,SOM-ID-10210,Bari,Rice (MT),264.68
+UN_AGENCY_LOCAL,Recipient Profile 10599,SOM-ID-10599,Gedo,High Energy Biscuits (KG),62.23
+UN_AGENCY_LOCAL,Recipient Profile 10696,SOM-ID-10696,Lower Shabelle,Water Purification Kits,286.69
+NGO_COUNCIL,Recipient Profile 10183,SOM-ID-10183,Bay,Water Purification Kits,280.53
+UN_AGENCY_LOCAL,Recipient Profile 10352,SOM-ID-10352,Bari,Water Purification Kits,134.35
+NGO_COUNCIL,Recipient Profile 10716,SOM-ID-10716,Bay,Rice (MT),376.43
+WFP_PARTNER_B,Recipient Profile 10820,SOM-ID-10820,Benadir,PlumpyNut (KG),259.09
+  WFP_PARTNER_A ,Recipient Profile 10093,SOM-ID-10093,Bay,Water Purification Kits,482.64
+WFP_PARTNER_B,Recipient Profile 10379,SOM-ID-10379,Gedo,Water Purification Kits,53.19
+WFP_PARTNER_A,Recipient Profile 10410,SOM-ID-10410,Bari,Rice (MT),365.0
+UN_AGENCY_LOCAL,Recipient Profile 10655,SOM-ID-10655,Bari,Rice (MT),473.4
+NGO_COUNCIL,Recipient Profile 10823,SOM-ID-10823,Gedo,Rice (MT),108.84
+UN_AGENCY_LOCAL,Recipient Profile 10715,SOM-ID-10715,Bay,Rice (MT),394.14
+WFP_PARTNER_B,Recipient Profile 10670,SOM-ID-10670,Bari,PlumpyNut (KG),340.27
+WFP_PARTNER_A,Recipient Profile 10361,SOM-ID-10361,Bay,Rice (MT),498.44
+NGO_COUNCIL,Recipient Profile 10070,SOM-ID-10070,Gedo,PlumpyNut (KG),263.69
+WFP_PARTNER_A,Recipient Profile 10596,SOM-ID-10596,Bari,High Energy Biscuits (KG),365.81
+UN_AGENCY_LOCAL,Recipient Profile 10465,SOM-ID-10465,Lower Shabelle,High Energy Biscuits (KG),120.88
+NGO_COUNCIL,Recipient Profile 10109,SOM-ID-10109,Bari,Rice (MT),137.94
+  WFP_PARTNER_A ,Recipient Profile 10525,SOM-ID-10525,Bari,High Energy Biscuits (KG),176.58
+UN_AGENCY_LOCAL,Recipient Profile 10576,SOM-ID-10576,Bari,High Energy Biscuits (KG),350.15
+NGO_COUNCIL,Recipient Profile 10471,SOM-ID-10471,Bay,High Energy Biscuits (KG),481.01
+WFP_PARTNER_A,Recipient Profile 10807,SOM-ID-10807,Gedo,Rice (MT),136.33
+WFP_PARTNER_B,Recipient Profile 10548,SOM-ID-10548,Bay,High Energy Biscuits (KG),212.09
+WFP_PARTNER_A,Recipient Profile 10766,SOM-ID-10766,Lower Shabelle,PlumpyNut (KG),150.77
+UN_AGENCY_LOCAL,Recipient Profile 10915,SOM-ID-10915,Benadir,PlumpyNut (KG),243.51
+  UN_AGENCY_LOCAL ,Recipient Profile 10753,SOM-ID-10753,Bay,PlumpyNut (KG),254.51
+WFP_PARTNER_B,Recipient Profile 10856,SOM-ID-10856,Lower Shabelle,PlumpyNut (KG),122.31
+  UN_AGENCY_LOCAL ,Recipient Profile 10679,SOM-ID-10679,Bay,Rice (MT),68.74
+NGO_COUNCIL,Recipient Profile 10043,SOM-ID-10043,Bari,Rice (MT),384.48
+NGO_COUNCIL,Recipient Profile 10918,SOM-ID-10918,Lower Shabelle,High Energy Biscuits (KG),251.25
+UN_AGENCY_LOCAL,Recipient Profile 10286,SOM-ID-10286,Gedo,PlumpyNut (KG),492.35
+NGO_COUNCIL,Recipient Profile 10489,SOM-ID-10489,Bay,PlumpyNut (KG),36.53
+WFP_PARTNER_A,Recipient Profile 10178,SOM-ID-10178,Bari,High Energy Biscuits (KG),202.92
+  NGO_COUNCIL ,Recipient Profile 10690,SOM-ID-10690,Benadir,Water Purification Kits,164.67
+WFP_PARTNER_B,Recipient Profile 10265,SOM-ID-10265,Gedo,Rice (MT),169.46
+WFP_PARTNER_B,Recipient Profile 10627,SOM-ID-10627,Bari,High Energy Biscuits (KG),126.2
+UN_AGENCY_LOCAL,Recipient Profile 10717,SOM-ID-10717,Lower Shabelle,PlumpyNut (KG),254.4
+  UN_AGENCY_LOCAL ,Recipient Profile 10134,SOM-ID-10134,Lower Shabelle,Water Purification Kits,147.02
+WFP_PARTNER_B,Recipient Profile 10876,SOM-ID-10876,Benadir,High Energy Biscuits (KG),404.0
+NGO_COUNCIL,Recipient Profile 10484,SOM-ID-10484,Bay,PlumpyNut (KG),402.02
+WFP_PARTNER_A,Recipient Profile 10869,SOM-ID-10869,Bay,Water Purification Kits,254.8
+UN_AGENCY_LOCAL,Recipient Profile 10048,SOM-ID-10048,Gedo,High Energy Biscuits (KG),132.98
+NGO_COUNCIL,Recipient Profile 10487,SOM-ID-10487,Benadir,PlumpyNut (KG),39.42
+WFP_PARTNER_A,Recipient Profile 10570,SOM-ID-10570,Gedo,High Energy Biscuits (KG),137.29
+UN_AGENCY_LOCAL,Recipient Profile 10695,SOM-ID-10695,Lower Shabelle,Rice (MT),211.76
+WFP_PARTNER_B,Recipient Profile 10332,SOM-ID-10332,Bari,PlumpyNut (KG),489.89
+NGO_COUNCIL,Recipient Profile 10646,SOM-ID-10646,Gedo,Rice (MT),196.72
+WFP_PARTNER_B,Recipient Profile 10414,SOM-ID-10414,Bay,High Energy Biscuits (KG),216.69
+WFP_PARTNER_A,Recipient Profile 10668,SOM-ID-10668,Benadir,PlumpyNut (KG),178.38
+UN_AGENCY_LOCAL,Recipient Profile 10883,SOM-ID-10883,Lower Shabelle,Water Purification Kits,142.91
+  UN_AGENCY_LOCAL ,Recipient Profile 10023,SOM-ID-10023,Bari,Water Purification Kits,212.85
+WFP_PARTNER_B,Recipient Profile 10081,SOM-ID-10081,Bay,High Energy Biscuits (KG),470.81
+  WFP_PARTNER_B ,Recipient Profile 10899,SOM-ID-10899,Bay,Water Purification Kits,60.47
+NGO_COUNCIL,Recipient Profile 10783,SOM-ID-10783,Bari,Rice (MT),22.92
+  WFP_PARTNER_A ,Recipient Profile 10906,SOM-ID-10906,Benadir,High Energy Biscuits (KG),312.87
+NGO_COUNCIL,Recipient Profile 10641,SOM-ID-10641,Lower Shabelle,PlumpyNut (KG),131.22
+WFP_PARTNER_B,Recipient Profile 10881,SOM-ID-10881,Bay,PlumpyNut (KG),24.0
+UN_AGENCY_LOCAL,Recipient Profile 10278,SOM-ID-10278,Gedo,Water Purification Kits,487.74
+NGO_COUNCIL,Recipient Profile 10766,SOM-ID-10766,Bay,PlumpyNut (KG),299.51
+NGO_COUNCIL,Recipient Profile 10232,SOM-ID-10232,Bari,High Energy Biscuits (KG),455.37
+WFP_PARTNER_A,Recipient Profile 10310,SOM-ID-10310,Gedo,High Energy Biscuits (KG),189.23
+WFP_PARTNER_A,Recipient Profile 10008,SOM-ID-10008,Benadir,PlumpyNut (KG),178.5
+NGO_COUNCIL,Recipient Profile 10299,SOM-ID-10299,Gedo,High Energy Biscuits (KG),14.47
+WFP_PARTNER_B,Recipient Profile 10447,SOM-ID-10447,Benadir,High Energy Biscuits (KG),102.4
+NGO_COUNCIL,Recipient Profile 10848,SOM-ID-10848,Bay,PlumpyNut (KG),360.32
+NGO_COUNCIL,Recipient Profile 10529,SOM-ID-10529,Bay,High Energy Biscuits (KG),48.81
+UN_AGENCY_LOCAL,Recipient Profile 10186,SOM-ID-10186,Lower Shabelle,High Energy Biscuits (KG),212.32
+WFP_PARTNER_B,UNKNOWN RECORD,,Lower Shabelle,Rice (MT),322.08
+  UN_AGENCY_LOCAL ,Recipient Profile 10050,SOM-ID-10050,Bari,Water Purification Kits,102.02
+  WFP_PARTNER_A ,Recipient Profile 10448,SOM-ID-10448,Bay,Rice (MT),148.24
+WFP_PARTNER_A,Recipient Profile 10350,SOM-ID-10350,Bay,Rice (MT),83.84
+NGO_COUNCIL,Recipient Profile 10810,SOM-ID-10810,Lower Shabelle,Water Purification Kits,499.0
+WFP_PARTNER_A,Recipient Profile 10057,SOM-ID-10057,Lower Shabelle,Rice (MT),423.34
+  UN_AGENCY_LOCAL ,Recipient Profile 10917,SOM-ID-10917,Gedo,Rice (MT),276.16
+UN_AGENCY_LOCAL,Recipient Profile 10254,SOM-ID-10254,Gedo,Rice (MT),69.76
+  NGO_COUNCIL ,Recipient Profile 10471,SOM-ID-10471,Gedo,PlumpyNut (KG),371.43
+WFP_PARTNER_A,Recipient Profile 10319,SOM-ID-10319,Bari,PlumpyNut (KG),241.68
+UN_AGENCY_LOCAL,Recipient Profile 10125,SOM-ID-10125,Bay,Rice (MT),374.92
+UN_AGENCY_LOCAL,Recipient Profile 10884,SOM-ID-10884,Gedo,High Energy Biscuits (KG),107.37
+WFP_PARTNER_B,Recipient Profile 10171,SOM-ID-10171,Benadir,PlumpyNut (KG),320.13
+UN_AGENCY_LOCAL,Recipient Profile 10043,SOM-ID-10043,Bari,Rice (MT),203.95
+  NGO_COUNCIL ,Recipient Profile 10161,SOM-ID-10161,Bari,PlumpyNut (KG),191.99
+NGO_COUNCIL,Recipient Profile 10640,SOM-ID-10640,Benadir,High Energy Biscuits (KG),466.12
+WFP_PARTNER_A,Recipient Profile 10810,SOM-ID-10810,Benadir,High Energy Biscuits (KG),325.84
+WFP_PARTNER_A,Recipient Profile 10807,SOM-ID-10807,Bay,Water Purification Kits,124.01
+UN_AGENCY_LOCAL,Recipient Profile 10741,SOM-ID-10741,Gedo,PlumpyNut (KG),20.46
+WFP_PARTNER_B,Recipient Profile 10301,SOM-ID-10301,Lower Shabelle,Rice (MT),247.8
+NGO_COUNCIL,Recipient Profile 10479,SOM-ID-10479,Bay,PlumpyNut (KG),276.37
+  UN_AGENCY_LOCAL ,Recipient Profile 10302,SOM-ID-10302,Bari,PlumpyNut (KG),43.75
+UN_AGENCY_LOCAL,Recipient Profile 10518,SOM-ID-10518,Bari,High Energy Biscuits (KG),232.5
+NGO_COUNCIL,Recipient Profile 10635,SOM-ID-10635,Bay,Rice (MT),313.67
+WFP_PARTNER_B,Recipient Profile 10396,SOM-ID-10396,Lower Shabelle,Rice (MT),332.56
+  WFP_PARTNER_B ,Recipient Profile 10289,SOM-ID-10289,Bari,Water Purification Kits,385.21
+UN_AGENCY_LOCAL,Recipient Profile 10068,SOM-ID-10068,Gedo,High Energy Biscuits (KG),64.13
+WFP_PARTNER_A,Recipient Profile 10497,SOM-ID-10497,Bay,PlumpyNut (KG),438.01
+WFP_PARTNER_B,Recipient Profile 10673,SOM-ID-10673,Benadir,Rice (MT),289.8
+NGO_COUNCIL,Recipient Profile 10735,SOM-ID-10735,Bari,High Energy Biscuits (KG),34.05
+WFP_PARTNER_A,Recipient Profile 10852,SOM-ID-10852,Benadir,PlumpyNut (KG),331.32
+WFP_PARTNER_A,Recipient Profile 10911,SOM-ID-10911,Gedo,Rice (MT),186.85
+NGO_COUNCIL,Recipient Profile 10041,SOM-ID-10041,Lower Shabelle,Rice (MT),413.59
+WFP_PARTNER_A,Recipient Profile 10099,SOM-ID-10099,Lower Shabelle,Rice (MT),472.86
+WFP_PARTNER_A,Recipient Profile 10254,SOM-ID-10254,Bay,Water Purification Kits,102.84
+WFP_PARTNER_B,Recipient Profile 10590,SOM-ID-10590,Bari,Water Purification Kits,375.59
+  UN_AGENCY_LOCAL ,Recipient Profile 10184,SOM-ID-10184,Gedo,Water Purification Kits,442.58
+NGO_COUNCIL,Recipient Profile 10614,SOM-ID-10614,Bari,High Energy Biscuits (KG),332.19
+NGO_COUNCIL,Recipient Profile 10865,SOM-ID-10865,Lower Shabelle,High Energy Biscuits (KG),279.54
+UN_AGENCY_LOCAL,Recipient Profile 10246,SOM-ID-10246,Gedo,Water Purification Kits,414.82
+WFP_PARTNER_B,Recipient Profile 10406,SOM-ID-10406,Gedo,High Energy Biscuits (KG),186.4
+WFP_PARTNER_A,Recipient Profile 10911,SOM-ID-10911,Benadir,High Energy Biscuits (KG),301.92
+UN_AGENCY_LOCAL,Recipient Profile 10322,SOM-ID-10322,Benadir,High Energy Biscuits (KG),492.35
+WFP_PARTNER_A,Recipient Profile 10159,SOM-ID-10159,Lower Shabelle,PlumpyNut (KG),56.2
+WFP_PARTNER_B,Recipient Profile 10262,SOM-ID-10262,Lower Shabelle,High Energy Biscuits (KG),445.92
+UN_AGENCY_LOCAL,Recipient Profile 10079,SOM-ID-10079,Benadir,Water Purification Kits,288.84
+UN_AGENCY_LOCAL,Recipient Profile 10719,SOM-ID-10719,Gedo,PlumpyNut (KG),249.26
+WFP_PARTNER_A,Recipient Profile 10390,SOM-ID-10390,Bari,High Energy Biscuits (KG),28.31
+WFP_PARTNER_A,Recipient Profile 10426,SOM-ID-10426,Benadir,High Energy Biscuits (KG),180.49
+WFP_PARTNER_A,Recipient Profile 10055,SOM-ID-10055,Bay,Rice (MT),320.6
+UN_AGENCY_LOCAL,Recipient Profile 10334,SOM-ID-10334,Bari,Rice (MT),166.47
+WFP_PARTNER_B,Recipient Profile 10456,SOM-ID-10456,Bay,Rice (MT),340.08
+WFP_PARTNER_A,Recipient Profile 10135,SOM-ID-10135,Bay,Water Purification Kits,151.99
+  UN_AGENCY_LOCAL ,Recipient Profile 10408,SOM-ID-10408,Benadir,Water Purification Kits,290.01
+UN_AGENCY_LOCAL,Recipient Profile 10133,SOM-ID-10133,Benadir,Water Purification Kits,255.89
+WFP_PARTNER_B,Recipient Profile 10200,SOM-ID-10200,Gedo,PlumpyNut (KG),249.05
+WFP_PARTNER_B,Recipient Profile 10701,SOM-ID-10701,Bay,Rice (MT),140.47
+WFP_PARTNER_A,Recipient Profile 10328,SOM-ID-10328,Benadir,Water Purification Kits,217.53
+  UN_AGENCY_LOCAL ,Recipient Profile 10358,SOM-ID-10358,Bari,Rice (MT),387.14
+NGO_COUNCIL,Recipient Profile 10239,SOM-ID-10239,Bari,PlumpyNut (KG),225.83
+WFP_PARTNER_B,Recipient Profile 10115,SOM-ID-10115,Lower Shabelle,PlumpyNut (KG),381.29
+WFP_PARTNER_A,Recipient Profile 10014,SOM-ID-10014,Bay,PlumpyNut (KG),435.69
+  UN_AGENCY_LOCAL ,Recipient Profile 10214,SOM-ID-10214,Benadir,High Energy Biscuits (KG),230.53
+WFP_PARTNER_B,Recipient Profile 10144,SOM-ID-10144,Bay,High Energy Biscuits (KG),278.91
+  WFP_PARTNER_A ,Recipient Profile 10205,SOM-ID-10205,Gedo,Rice (MT),135.17
+  UN_AGENCY_LOCAL ,Recipient Profile 10397,SOM-ID-10397,Benadir,Water Purification Kits,330.83
+UN_AGENCY_LOCAL,Recipient Profile 10664,SOM-ID-10664,Lower Shabelle,Rice (MT),19.35
+NGO_COUNCIL,Recipient Profile 10925,SOM-ID-10925,Bay,Water Purification Kits,259.18
+UN_AGENCY_LOCAL,Recipient Profile 10468,SOM-ID-10468,Gedo,Rice (MT),101.34
+WFP_PARTNER_A,Recipient Profile 10501,SOM-ID-10501,Benadir,PlumpyNut (KG),461.91
+NGO_COUNCIL,Recipient Profile 10640,SOM-ID-10640,Bay,Rice (MT),179.92
+UN_AGENCY_LOCAL,Recipient Profile 10899,SOM-ID-10899,Bay,High Energy Biscuits (KG),407.83
+NGO_COUNCIL,Recipient Profile 10402,SOM-ID-10402,Benadir,High Energy Biscuits (KG),120.54
+WFP_PARTNER_B,Recipient Profile 10893,SOM-ID-10893,Benadir,Water Purification Kits,265.15
+WFP_PARTNER_B,Recipient Profile 10319,SOM-ID-10319,Gedo,PlumpyNut (KG),290.72
+  UN_AGENCY_LOCAL ,Recipient Profile 10554,SOM-ID-10554,Gedo,PlumpyNut (KG),111.31
+WFP_PARTNER_B,Recipient Profile 10931,SOM-ID-10931,Bay,High Energy Biscuits (KG),347.38
+WFP_PARTNER_B,Recipient Profile 10161,SOM-ID-10161,Gedo,PlumpyNut (KG),331.55
+UN_AGENCY_LOCAL,Recipient Profile 10149,SOM-ID-10149,Benadir,Rice (MT),100.23
+WFP_PARTNER_A,Recipient Profile 10763,SOM-ID-10763,Lower Shabelle,Water Purification Kits,480.99
+  UN_AGENCY_LOCAL ,Recipient Profile 10780,SOM-ID-10780,Bay,PlumpyNut (KG),62.32
+UN_AGENCY_LOCAL,Recipient Profile 10026,SOM-ID-10026,Bari,PlumpyNut (KG),302.22
+UN_AGENCY_LOCAL,Recipient Profile 10480,SOM-ID-10480,Benadir,Water Purification Kits,75.7
+  UN_AGENCY_LOCAL ,Recipient Profile 10197,SOM-ID-10197,Bay,Water Purification Kits,250.81
+  WFP_PARTNER_B ,Recipient Profile 10276,SOM-ID-10276,Benadir,Water Purification Kits,384.62
+  NGO_COUNCIL ,Recipient Profile 10949,SOM-ID-10949,Bay,PlumpyNut (KG),381.31
+NGO_COUNCIL,Recipient Profile 10908,SOM-ID-10908,Bari,Water Purification Kits,347.05
+WFP_PARTNER_B,Recipient Profile 10844,SOM-ID-10844,Gedo,Water Purification Kits,390.35
+NGO_COUNCIL,HASINA MOHAMED AHMED,SOM-ID-10555,Lower Shabelle,Water Purification Kits,309.64
+WFP_PARTNER_A,  hasina mohamed ahmed ,SOM-ID-10555,Bari,Rice (MT),231.29
+  WFP_PARTNER_B ,Recipient Profile 10396,SOM-ID-10396,Bari,Water Purification Kits,492.08
+WFP_PARTNER_A,Recipient Profile 10792,SOM-ID-10792,Bay,High Energy Biscuits (KG),225.38
+UN_AGENCY_LOCAL,Recipient Profile 10055,SOM-ID-10055,Gedo,PlumpyNut (KG),217.01
+WFP_PARTNER_B,Recipient Profile 10184,SOM-ID-10184,Gedo,Water Purification Kits,54.32
+  WFP_PARTNER_B ,Recipient Profile 10464,SOM-ID-10464,Gedo,Water Purification Kits,168.5
+WFP_PARTNER_B,Recipient Profile 10928,SOM-ID-10928,Gedo,Rice (MT),132.54
+WFP_PARTNER_B,Recipient Profile 10371,SOM-ID-10371,Benadir,Rice (MT),65.94
+WFP_PARTNER_A,Recipient Profile 10626,SOM-ID-10626,Bari,Water Purification Kits,366.17
+  WFP_PARTNER_B ,Recipient Profile 10343,SOM-ID-10343,Gedo,Water Purification Kits,31.51
+WFP_PARTNER_B,Recipient Profile 10429,SOM-ID-10429,Bay,PlumpyNut (KG),97.64
+  UN_AGENCY_LOCAL ,Recipient Profile 10920,SOM-ID-10920,Lower Shabelle,Water Purification Kits,151.5
+WFP_PARTNER_B,Recipient Profile 10469,SOM-ID-10469,Bay,Rice (MT),315.05
+NGO_COUNCIL,Recipient Profile 10222,SOM-ID-10222,Gedo,Rice (MT),307.91
+NGO_COUNCIL,Recipient Profile 10006,SOM-ID-10006,Gedo,Water Purification Kits,226.52
+WFP_PARTNER_B,Recipient Profile 10845,SOM-ID-10845,Bari,High Energy Biscuits (KG),313.69
+WFP_PARTNER_B,Recipient Profile 10037,SOM-ID-10037,Benadir,PlumpyNut (KG),82.65
+  WFP_PARTNER_B ,Recipient Profile 10111,SOM-ID-10111,Benadir,High Energy Biscuits (KG),172.24
+NGO_COUNCIL,Recipient Profile 10708,SOM-ID-10708,Bay,PlumpyNut (KG),339.32
+  WFP_PARTNER_B ,Recipient Profile 10306,SOM-ID-10306,Gedo,High Energy Biscuits (KG),466.43
+UN_AGENCY_LOCAL,Recipient Profile 10863,SOM-ID-10863,Lower Shabelle,Water Purification Kits,411.93
+WFP_PARTNER_A,Recipient Profile 10281,SOM-ID-10281,Lower Shabelle,Water Purification Kits,75.93
+UN_AGENCY_LOCAL,Recipient Profile 10626,SOM-ID-10626,Bari,Water Purification Kits,267.08
+WFP_PARTNER_A,Recipient Profile 10807,SOM-ID-10807,Benadir,Rice (MT),246.99
+UN_AGENCY_LOCAL,Recipient Profile 10638,SOM-ID-10638,Gedo,High Energy Biscuits (KG),137.23
+UN_AGENCY_LOCAL,Recipient Profile 10504,SOM-ID-10504,Bay,Water Purification Kits,264.66
+WFP_PARTNER_B,Recipient Profile 10001,SOM-ID-10001,Bari,PlumpyNut (KG),357.21
+  WFP_PARTNER_A ,Recipient Profile 10868,SOM-ID-10868,Benadir,Water Purification Kits,316.48
+WFP_PARTNER_B,Recipient Profile 10573,SOM-ID-10573,Bari,Water Purification Kits,212.88
+WFP_PARTNER_B,Recipient Profile 10069,SOM-ID-10069,Benadir,PlumpyNut (KG),348.11
+  UN_AGENCY_LOCAL ,Recipient Profile 10341,SOM-ID-10341,Lower Shabelle,High Energy Biscuits (KG),385.85
+  UN_AGENCY_LOCAL ,Recipient Profile 10853,SOM-ID-10853,Gedo,Rice (MT),417.7
+UN_AGENCY_LOCAL,Recipient Profile 10493,SOM-ID-10493,Gedo,Water Purification Kits,400.65
+WFP_PARTNER_B,Recipient Profile 10760,SOM-ID-10760,Gedo,High Energy Biscuits (KG),236.61
+WFP_PARTNER_A,Recipient Profile 10568,SOM-ID-10568,Bari,High Energy Biscuits (KG),286.82
+WFP_PARTNER_A,Recipient Profile 10362,SOM-ID-10362,Bay,High Energy Biscuits (KG),401.77
+WFP_PARTNER_A,Recipient Profile 10384,SOM-ID-10384,Bay,High Energy Biscuits (KG),421.96
+  WFP_PARTNER_B ,Recipient Profile 10801,SOM-ID-10801,Bari,Water Purification Kits,101.82
+  UN_AGENCY_LOCAL ,Recipient Profile 10898,SOM-ID-10898,Lower Shabelle,Rice (MT),143.03
+WFP_PARTNER_B,Recipient Profile 10537,SOM-ID-10537,Lower Shabelle,Water Purification Kits,416.43
+  UN_AGENCY_LOCAL ,Recipient Profile 10206,SOM-ID-10206,Bay,Rice (MT),193.37
+WFP_PARTNER_A,Recipient Profile 10157,SOM-ID-10157,Gedo,Rice (MT),401.52
+WFP_PARTNER_B,Recipient Profile 10794,SOM-ID-10794,Lower Shabelle,Water Purification Kits,368.9
+UN_AGENCY_LOCAL,Recipient Profile 10692,SOM-ID-10692,Bay,Rice (MT),412.85
+WFP_PARTNER_B,Recipient Profile 10534,SOM-ID-10534,Bay,Rice (MT),235.09
+WFP_PARTNER_A,Recipient Profile 10608,SOM-ID-10608,Benadir,High Energy Biscuits (KG),466.85
+  WFP_PARTNER_A ,Recipient Profile 10784,SOM-ID-10784,Lower Shabelle,Water Purification Kits,445.7
+UN_AGENCY_LOCAL,Recipient Profile 10205,SOM-ID-10205,Benadir,High Energy Biscuits (KG),323.04
+WFP_PARTNER_B,Recipient Profile 10687,SOM-ID-10687,Lower Shabelle,High Energy Biscuits (KG),270.82
+  WFP_PARTNER_A ,Recipient Profile 10637,SOM-ID-10637,Lower Shabelle,PlumpyNut (KG),87.17
+WFP_PARTNER_A,Recipient Profile 10721,SOM-ID-10721,Bay,High Energy Biscuits (KG),279.19
+UN_AGENCY_LOCAL,Recipient Profile 10913,SOM-ID-10913,Bari,PlumpyNut (KG),93.92
+  UN_AGENCY_LOCAL ,Recipient Profile 10924,SOM-ID-10924,Bari,Water Purification Kits,34.86
+WFP_PARTNER_A,Recipient Profile 10183,SOM-ID-10183,Benadir,Water Purification Kits,36.36
+NGO_COUNCIL,Recipient Profile 10730,SOM-ID-10730,Bari,High Energy Biscuits (KG),163.1
+WFP_PARTNER_A,Recipient Profile 10715,SOM-ID-10715,Gedo,PlumpyNut (KG),55.53
+NGO_COUNCIL,Recipient Profile 10784,SOM-ID-10784,Benadir,Water Purification Kits,162.09
+  NGO_COUNCIL ,Recipient Profile 10917,SOM-ID-10917,Gedo,PlumpyNut (KG),474.25
+UN_AGENCY_LOCAL,Recipient Profile 10338,SOM-ID-10338,Lower Shabelle,Water Purification Kits,99.84
+UN_AGENCY_LOCAL,Recipient Profile 10359,SOM-ID-10359,Gedo,Water Purification Kits,24.83
+NGO_COUNCIL,Recipient Profile 10588,SOM-ID-10588,Gedo,PlumpyNut (KG),148.31
+WFP_PARTNER_B,Recipient Profile 10109,SOM-ID-10109,Bari,Rice (MT),208.79
+UN_AGENCY_LOCAL,Recipient Profile 10410,SOM-ID-10410,Bari,Rice (MT),398.29
+NGO_COUNCIL,Recipient Profile 10393,SOM-ID-10393,Bay,PlumpyNut (KG),278.5
+WFP_PARTNER_A,Recipient Profile 10803,SOM-ID-10803,Lower Shabelle,PlumpyNut (KG),408.82
+NGO_COUNCIL,Recipient Profile 10678,SOM-ID-10678,Bari,High Energy Biscuits (KG),276.82
+WFP_PARTNER_A,Recipient Profile 10333,SOM-ID-10333,Bari,Water Purification Kits,66.02
+WFP_PARTNER_A,Recipient Profile 10612,SOM-ID-10612,Gedo,PlumpyNut (KG),160.94
+WFP_PARTNER_A,Recipient Profile 10062,SOM-ID-10062,Bari,Water Purification Kits,170.43
+WFP_PARTNER_A,Recipient Profile 10651,SOM-ID-10651,Bay,PlumpyNut (KG),444.76
+WFP_PARTNER_A,Recipient Profile 10630,SOM-ID-10630,Bay,PlumpyNut (KG),231.96
+NGO_COUNCIL,Recipient Profile 10583,SOM-ID-10583,Bay,PlumpyNut (KG),343.94
+UN_AGENCY_LOCAL,Recipient Profile 10626,SOM-ID-10626,Gedo,High Energy Biscuits (KG),495.24
+NGO_COUNCIL,Recipient Profile 10054,SOM-ID-10054,Bay,High Energy Biscuits (KG),40.58
+WFP_PARTNER_A,Recipient Profile 10031,SOM-ID-10031,Bari,High Energy Biscuits (KG),63.75
+WFP_PARTNER_B,Recipient Profile 10415,SOM-ID-10415,Gedo,Water Purification Kits,316.36
+NGO_COUNCIL,Recipient Profile 10192,SOM-ID-10192,Gedo,PlumpyNut (KG),334.62
+NGO_COUNCIL,Recipient Profile 10686,SOM-ID-10686,Lower Shabelle,Water Purification Kits,85.59
+  WFP_PARTNER_B ,Recipient Profile 10738,SOM-ID-10738,Bay,Rice (MT),45.16
+NGO_COUNCIL,Recipient Profile 10425,SOM-ID-10425,Gedo,PlumpyNut (KG),51.49
+NGO_COUNCIL,Recipient Profile 10434,SOM-ID-10434,Bari,Water Purification Kits,315.39
+NGO_COUNCIL,Recipient Profile 10007,SOM-ID-10007,Gedo,High Energy Biscuits (KG),120.61
+NGO_COUNCIL,Recipient Profile 10375,SOM-ID-10375,Bay,High Energy Biscuits (KG),211.31
+  WFP_PARTNER_A ,Recipient Profile 10493,SOM-ID-10493,Benadir,Water Purification Kits,355.39
+  WFP_PARTNER_A ,Recipient Profile 10911,SOM-ID-10911,Bay,High Energy Biscuits (KG),237.82
+WFP_PARTNER_A,Recipient Profile 10684,SOM-ID-10684,Bay,Water Purification Kits,319.02
+WFP_PARTNER_A,Recipient Profile 10547,SOM-ID-10547,Bari,High Energy Biscuits (KG),310.39
+WFP_PARTNER_A,Recipient Profile 10751,SOM-ID-10751,Gedo,Water Purification Kits,261.2
+UN_AGENCY_LOCAL,Recipient Profile 10296,SOM-ID-10296,Gedo,High Energy Biscuits (KG),480.68

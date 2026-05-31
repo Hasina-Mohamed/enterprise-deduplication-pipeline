@@ -1,0 +1,28 @@
+# Automated Enterprise Data Auditing & Deduplication Pipeline
+
+An end-to-end data validation and data quality gatekeeper designed to ingest chaotic transactional data, enforce structural integrity, run fuzzy deduplication logic, and bulk-load clean datasets into an optimized relational database staging tier.
+
+## 🏗️ Architecture Overview
+
+The system processes incoming datasets through a multi-stage production pipeline:
+1. **Ingestion & Validation Block:** Python parses independent CSV/Excel file streams and screens for fatal structural layout anomalies (e.g., missing critical transactional IDs).
+2. **String Standardization Block:** Scripts sanitize text structures, safely handle null allocations, and convert user name entries to uniform casing to remove human-entry variation.
+3. **Fuzzy Record Linkage Core:** Utilizes mathematical distance metrics (Jaro-Winkler/Levenshtein) to isolate near-duplicate identities and biometric double-registrations.
+4. **Relational Ingestion Tier:** Connects via a low-latency database driver to push verified unique logs into an indexed, multi-tenant PostgreSQL schema with strict constraints.
+
+## 🛠️ Tech Stack & Dependencies
+
+- **Data Processing:** Python 3.13, Pandas, NumPy
+- **Algorithmic Matching:** Record Linkage (Fuzzy Matching Engine)
+- **Database Architecture:** PostgreSQL 18, Row-Level Constraints, B-Tree Indexes
+- **Database Driver:** Psycopg2-Binary (Bulk Transaction Execution)
+
+## 📁 Project Directory Structure
+
+```text
+enterprise-deduplication-pipeline/
+├── audit_engine.py       # Core Python script for data cleaning & fuzzy matching
+├── db_loader.py          # PostgreSQL driver connection and bulk ingestion script
+├── schema.sql            # Relational schema defining data-ops constraints and indexes
+├── field_payout_logs.csv # Simulated raw, messy incoming transactional files
+└── final_unique_records.csv # Clean, staging output file ready for database injection
